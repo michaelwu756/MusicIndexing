@@ -1,19 +1,51 @@
 .
+./.git
+./.git/COMMIT_EDITMSG
+./.git/config
+./.git/description
+./.git/HEAD
+./.git/hooks
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/update.sample
+./.git/index
+./.git/info
+./.git/info/exclude
+./.git/logs
+./.git/logs/HEAD
+./.git/logs/refs
+./.git/logs/refs/heads
+./.git/logs/refs/heads/master
+./.git/objects
+./.git/objects/64
+./.git/objects/64/f7c0ecd63392580ada95b7cd403f19101ac0e4
+./.git/objects/a6
+./.git/objects/a6/b3960e2b31f18e2b912c397725ed2118a9c422
+./.git/objects/b0
+./.git/objects/b0/75f7eba8e4baa248fbf5fc083ecb1026b1f73b
+./.git/objects/info
+./.git/objects/pack
+./.git/refs
+./.git/refs/heads
+./.git/refs/heads/master
+./.git/refs/tags
 ./2001
 ./2001/2001.jpg
-./2001/AlbumArtSmall.jpg
-./2001/Folder.jpg
 ./2001/The Next Episode.mp3
-./2001/Thumbs.db
 ./3 Foot Clearance
 ./3 Foot Clearance/3 Foot Clearance.jpg
-./3 Foot Clearance/AlbumArtSmall.jpg
 ./3 Foot Clearance/Ballad of Jerry Mono.mp3
 ./3 Foot Clearance/Battlefields.mp3
 ./3 Foot Clearance/Critical Leg Assignment.mp3
 ./3 Foot Clearance/Droid Hunt.mp3
 ./3 Foot Clearance/Floating Graveyard.mp3
-./3 Foot Clearance/Folder.jpg
 ./3 Foot Clearance/Griffin's Spike.mp3
 ./3 Foot Clearance/H.D. Autopsy.mp3
 ./3 Foot Clearance/Handprint Ornament.mp3
@@ -24,37 +56,20 @@
 ./3 Foot Clearance/X-ray.mp3
 ./4AM Friday
 ./4AM Friday/4AM Friday.jpg
-./4AM Friday/AlbumArtSmall.jpg
-./4AM Friday/Folder.jpg
 ./4AM Friday/Simple Song.mp3
-./4AM Friday/Thumbs.db
 ./A Hard Day's Night
 ./A Hard Day's Night/A Hard Day's Night.jpg
 ./A Hard Day's Night/A Hard Day's Night.mp3
-./A Hard Day's Night/AlbumArtSmall.jpg
-./A Hard Day's Night/Folder.jpg
-./A Hard Day's Night/Thumbs.db
 ./A Night at the Opera
 ./A Night at the Opera/A Night at the Opera.jpg
-./A Night at the Opera/AlbumArtSmall.jpg
-./A Night at the Opera/AlbumArt_{9155B24D-C290-4D05-82FB-EEC20DD33951}_Large.jpg
-./A Night at the Opera/AlbumArt_{9155B24D-C290-4D05-82FB-EEC20DD33951}_Small.jpg
 ./A Night at the Opera/Bohemian Rhapsody.mp3
-./A Night at the Opera/desktop.ini
-./A Night at the Opera/Folder.jpg
-./A Night at the Opera/Thumbs.db
 ./A Rock and Roll Alternative
 ./A Rock and Roll Alternative/A Rock and Roll Alternative.jpg
-./A Rock and Roll Alternative/AlbumArtSmall.jpg
-./A Rock and Roll Alternative/Folder.jpg
 ./A Rock and Roll Alternative/So Into You.mp3
-./A Rock and Roll Alternative/Thumbs.db
 ./Abraxas
 ./Abraxas/Abraxas.jpg
-./Abraxas/AlbumArtSmall.jpg
 ./Abraxas/Black Magic Woman  Gypsy Queen.mp3
 ./Abraxas/El Nicoya.mp3
-./Abraxas/Folder.jpg
 ./Abraxas/Hope You're Feeling Better.mp3
 ./Abraxas/Incident at Neshabur.mp3
 ./Abraxas/Mother's Daughter.mp3
@@ -62,67 +77,44 @@
 ./Abraxas/Samba Pa Ti.mp3
 ./Abraxas/Se Acabó.mp3
 ./Abraxas/Singing Winds, Crying Beasts.mp3
-./Abraxas/Thumbs.db
 ./Aerosmith
 ./Aerosmith/Aerosmith.jpg
-./Aerosmith/AlbumArtSmall.jpg
 ./Aerosmith/Dream On.mp3
-./Aerosmith/Folder.jpg
-./Aerosmith/Thumbs.db
 ./Afterburner
 ./Afterburner/Afterburner.jpg
-./Afterburner/AlbumArtSmall.jpg
-./Afterburner/Folder.jpg
-./Afterburner/Thumbs.db
 ./Afterburner/Velcro Fly.mp3
 ./Agents of Fortune
 ./Agents of Fortune/(Don't Fear) The Reaper.mp3
 ./Agents of Fortune/Agents of Fortune.jpg
-./Agents of Fortune/AlbumArtSmall.jpg
 ./Agents of Fortune/Debbie Denise.mp3
 ./Agents of Fortune/E.T.I. (Extra Terrestrial Intelligence).mp3
-./Agents of Fortune/Folder.jpg
 ./Agents of Fortune/Morning Final.mp3
 ./Agents of Fortune/Sinful Love.mp3
 ./Agents of Fortune/Tattoo Vampire.mp3
 ./Agents of Fortune/Tenderloin.mp3
 ./Agents of Fortune/The Revenge of Vera Gemini.mp3
 ./Agents of Fortune/This Ain't the Summer of Love.mp3
-./Agents of Fortune/Thumbs.db
 ./Agents of Fortune/True Confessions.mp3
 ./Aja
 ./Aja/Aja.jpg
 ./Aja/Aja.mp3
-./Aja/AlbumArtSmall.jpg
 ./Aja/Black Cow.mp3
 ./Aja/Deacon Blues.mp3
-./Aja/Folder.jpg
 ./Aja/Home at Last.mp3
 ./Aja/I Got the News.mp3
 ./Aja/Josie.mp3
 ./Aja/Peg.mp3
-./Aja/Thumbs.db
 ./American V A Hundred Highways
-./American V A Hundred Highways/AlbumArtSmall.jpg
-./American V A Hundred Highways/AlbumArt_{38F41054-F09B-4F44-871E-9BF4AD8DBA9D}_Large.jpg
-./American V A Hundred Highways/AlbumArt_{38F41054-F09B-4F44-871E-9BF4AD8DBA9D}_Small.jpg
 ./American V A Hundred Highways/American V A Hundred Highways.jpg
-./American V A Hundred Highways/Folder.jpg
 ./American V A Hundred Highways/God's Gonna Cut You Down.mp3
-./American V A Hundred Highways/Thumbs.db
 ./American Woman
-./American Woman/AlbumArtSmall.jpg
 ./American Woman/American Woman.jpg
-./American Woman/Folder.jpg
 ./American Woman/No Time.mp3
-./American Woman/Thumbs.db
 ./And the Anonymous Nobody
-./And the Anonymous Nobody/AlbumArtSmall.jpg
 ./And the Anonymous Nobody/And the Anonymous Nobody.jpg
 ./And the Anonymous Nobody/CBGB's.mp3
 ./And the Anonymous Nobody/Drawn.mp3
 ./And the Anonymous Nobody/Exodus.mp3
-./And the Anonymous Nobody/Folder.jpg
 ./And the Anonymous Nobody/Genesis.mp3
 ./And the Anonymous Nobody/Greyhounds.mp3
 ./And the Anonymous Nobody/Here in After.mp3
@@ -138,52 +130,29 @@
 ./And the Anonymous Nobody/Whoodeeni.mp3
 ./And the Anonymous Nobody/You Go Dave (A Goldblatt Presentation).mp3
 ./Apocalypse 91... The Enemy Strikes Black
-./Apocalypse 91... The Enemy Strikes Black/AlbumArtSmall.jpg
-./Apocalypse 91... The Enemy Strikes Black/AlbumArt_{1E5304D3-BC9C-477F-A4D8-7F71F28CA749}_Large.jpg
-./Apocalypse 91... The Enemy Strikes Black/AlbumArt_{1E5304D3-BC9C-477F-A4D8-7F71F28CA749}_Small.jpg
 ./Apocalypse 91... The Enemy Strikes Black/Apocalypse 91... The Enemy Strikes Black.jpg
 ./Apocalypse 91... The Enemy Strikes Black/By the Time I Get to Arizona.mp3
-./Apocalypse 91... The Enemy Strikes Black/Folder.jpg
-./Apocalypse 91... The Enemy Strikes Black/Thumbs.db
 ./Back at the Laundromat
-./Back at the Laundromat/AlbumArtSmall.jpg
 ./Back at the Laundromat/Back at the Laundromat.jpg
-./Back at the Laundromat/Folder.jpg
-./Back at the Laundromat/Thumbs.db
 ./Back at the Laundromat/Yer Country.mp3
 ./Back for the First Time
-./Back for the First Time/AlbumArtSmall.jpg
 ./Back for the First Time/Back for the First Time.jpg
-./Back for the First Time/Folder.jpg
 ./Back for the First Time/Southern Hospitality.mp3
 ./Bananaphone
-./Bananaphone/AlbumArtSmall.jpg
 ./Bananaphone/Bananaphone.jpg
 ./Bananaphone/Bananaphone.mp3
-./Bananaphone/Folder.jpg
-./Bananaphone/Thumbs.db
 ./Begin Here
-./Begin Here/AlbumArtSmall.jpg
-./Begin Here/AlbumArt_{15CF4129-45C9-4FCD-B86C-C3C5AA4DB053}_Large.jpg
-./Begin Here/AlbumArt_{15CF4129-45C9-4FCD-B86C-C3C5AA4DB053}_Small.jpg
 ./Begin Here/Begin Here.jpg
-./Begin Here/Folder.jpg
 ./Begin Here/She's Not There.mp3
-./Begin Here/Thumbs.db
 ./Billy Talent II
-./Billy Talent II/AlbumArtSmall.jpg
 ./Billy Talent II/Billy Talent II.jpg
 ./Billy Talent II/Devil in a Midnight Mass.mp3
-./Billy Talent II/Folder.jpg
-./Billy Talent II/Thumbs.db
 ./Black Hawk Down
-./Black Hawk Down/AlbumArtSmall.jpg
 ./Black Hawk Down/Ashes to Ashes.mp3
 ./Black Hawk Down/Bakara.mp3
 ./Black Hawk Down/Barra Barra.mp3
 ./Black Hawk Down/Black Hawk Down.jpg
 ./Black Hawk Down/Chant.mp3
-./Black Hawk Down/Folder.jpg
 ./Black Hawk Down/Gortoz a ran J'attends.mp3
 ./Black Hawk Down/Hunger.mp3
 ./Black Hawk Down/Leave No Man Behind.mp3
@@ -196,103 +165,71 @@
 ./Black Hawk Down/Tribal War.mp3
 ./Black Hawk Down/Vale of Plenty.mp3
 ./Black Sabbath
-./Black Sabbath/AlbumArtSmall.jpg
 ./Black Sabbath/Behind the Wall of Sleep.mp3
 ./Black Sabbath/Black Sabbath.jpg
 ./Black Sabbath/Black Sabbath.mp3
 ./Black Sabbath/Evil Woman, Don't Play Your Games With Me.mp3
-./Black Sabbath/Folder.jpg
 ./Black Sabbath/N.I.B..mp3
 ./Black Sabbath/Sleeping Village.mp3
 ./Black Sabbath/The Wizard.mp3
 ./Black Sabbath/Warning.mp3
 ./Blatant Localism
-./Blatant Localism/AlbumArtSmall.jpg
 ./Blatant Localism/Beach Blanket Bong-Out.mp3
 ./Blatant Localism/Blatant Localism.jpg
-./Blatant Localism/Folder.jpg
-./Blatant Localism/Thumbs.db
 ./Blue Öyster Cult
 ./Blue Öyster Cult/A Fact About Sneakers (demo).mp3
-./Blue Öyster Cult/AlbumArtSmall.jpg
 ./Blue Öyster Cult/Before the Kiss, a Redcap.mp3
 ./Blue Öyster Cult/Betty Lou's Got a New Pair of Shoes (demo).mp3
 ./Blue Öyster Cult/Blue Öyster Cult.jpg
 ./Blue Öyster Cult/Cities on Flame With Rock and Roll.mp3
 ./Blue Öyster Cult/Donovan's Monkey (demo).mp3
-./Blue Öyster Cult/Folder.jpg
 ./Blue Öyster Cult/I'm on the Lamb but I Ain't No Sheep.mp3
 ./Blue Öyster Cult/Redeemed.mp3
 ./Blue Öyster Cult/Screams.mp3
 ./Blue Öyster Cult/She's as Beautiful as a Foot.mp3
 ./Blue Öyster Cult/Stairway to the Stars.mp3
 ./Blue Öyster Cult/Then Came the Last Days of May.mp3
-./Blue Öyster Cult/Thumbs.db
 ./Blue Öyster Cult/Transmaniacon MC.mp3
 ./Blue Öyster Cult/What Is Quicksand (demo).mp3
 ./Blue Öyster Cult/Workshop of the Telescopes.mp3
 ./Blues & Roots
-./Blues & Roots/AlbumArtSmall.jpg
 ./Blues & Roots/Blues & Roots.jpg
-./Blues & Roots/Folder.jpg
 ./Blues & Roots/Moanin'.mp3
-./Blues & Roots/Thumbs.db
 ./Breakaway
-./Breakaway/AlbumArtSmall.jpg
 ./Breakaway/Breakaway.jpg
-./Breakaway/Folder.jpg
 ./Breakaway/Rockwriter.mp3
-./Breakaway/Thumbs.db
 ./Bring the Family
-./Bring the Family/AlbumArtSmall.jpg
-./Bring the Family/AlbumArt_{5DDF2523-4BD1-43FD-BBDB-9EF373916B7F}_Large.jpg
-./Bring the Family/AlbumArt_{5DDF2523-4BD1-43FD-BBDB-9EF373916B7F}_Small.jpg
 ./Bring the Family/Bring the Family.jpg
-./Bring the Family/Folder.jpg
 ./Bring the Family/Memphis in the Meantime.mp3
-./Bring the Family/Thumbs.db
 ./Broken Boy Soldiers
-./Broken Boy Soldiers/AlbumArtSmall.jpg
 ./Broken Boy Soldiers/Broken Boy Soldiers.jpg
-./Broken Boy Soldiers/Folder.jpg
 ./Broken Boy Soldiers/Level.mp3
-./Broken Boy Soldiers/Thumbs.db
 ./Cabs
-./Cabs/AlbumArtSmall.jpg
 ./Cabs/Cabs.jpg
 ./Cabs/Cabs.mp3
-./Cabs/Folder.jpg
 ./Cabs/Sludging Through the Slaughterhouse.mp3
 ./Cabs/Styrofoam Cut-Ups.mp3
 ./Cabs/Underneath the Arctic.mp3
 ./Cage the Elephant
 ./Cage the Elephant/Ain't No Rest for the Wicked.mp3
-./Cage the Elephant/AlbumArtSmall.jpg
 ./Cage the Elephant/Cage the Elephant.jpg
-./Cage the Elephant/Folder.jpg
-./Cage the Elephant/Thumbs.db
 ./Can't Buy a Thrill
-./Can't Buy a Thrill/AlbumArtSmall.jpg
 ./Can't Buy a Thrill/Brooklyn (Owes the Charmer Under Me).mp3
 ./Can't Buy a Thrill/Can't Buy a Thrill.jpg
 ./Can't Buy a Thrill/Change of the Guard.mp3
 ./Can't Buy a Thrill/Dirty Work.mp3
 ./Can't Buy a Thrill/Do It Again.mp3
 ./Can't Buy a Thrill/Fire in the Hole.mp3
-./Can't Buy a Thrill/Folder.jpg
 ./Can't Buy a Thrill/Kings.mp3
 ./Can't Buy a Thrill/Midnite Cruiser.mp3
 ./Can't Buy a Thrill/Only a Fool Would Say That.mp3
 ./Can't Buy a Thrill/Reelin' in the Years.mp3
-./Can't Buy a Thrill/Thumbs.db
 ./Can't Buy a Thrill/Turn That Heartbeat Over Again.mp3
 ./Caravanserai
-./Caravanserai/AlbumArtSmall.jpg
 ./Caravanserai/All the Love of the Universe.mp3
 ./Caravanserai/Caravanserai.jpg
 ./Caravanserai/Eternal Caravan of Reincarnation.mp3
 ./Caravanserai/Every Step of the Way.mp3
-./Caravanserai/Folder.jpg
 ./Caravanserai/Future Primitive.mp3
 ./Caravanserai/Just in Time to See the Sun.mp3
 ./Caravanserai/La fuente del ritmo.mp3
@@ -301,11 +238,9 @@
 ./Caravanserai/Stone Flower.mp3
 ./Caravanserai/Waves Within.mp3
 ./Caterpillar
-./Caterpillar/AlbumArtSmall.jpg
 ./Caterpillar/Caterpillar.jpg
 ./Caterpillar/Caterpillar.mp3
 ./Caterpillar/Dream Machine.mp3
-./Caterpillar/Folder.jpg
 ./Caterpillar/Fountain.mp3
 ./Caterpillar/Hot Wheels.mp3
 ./Caterpillar/Mr. Toad's Wait Time.mp3
@@ -313,12 +248,10 @@
 ./Caterpillar/Ring.mp3
 ./Caterpillar/Skizzy's Hot Rod.mp3
 ./Comfort Eagle
-./Comfort Eagle/AlbumArtSmall.jpg
 ./Comfort Eagle/Arco Arena.mp3
 ./Comfort Eagle/Comfort Eagle.jpg
 ./Comfort Eagle/Comfort Eagle.mp3
 ./Comfort Eagle/Commissioning a Symphony in C.mp3
-./Comfort Eagle/Folder.jpg
 ./Comfort Eagle/Long Line of Cars.mp3
 ./Comfort Eagle/Love You Madly.mp3
 ./Comfort Eagle/Meanwhile, Rick James....mp3
@@ -326,16 +259,11 @@
 ./Comfort Eagle/Pretty Pink Ribbon.mp3
 ./Comfort Eagle/Shadow Stabbing.mp3
 ./Comfort Eagle/Short Skirt Long Jacket.mp3
-./Comfort Eagle/Thumbs.db
 ./Comfort Eagle/World of Two.mp3
 ./contents.txt
 ./Countdown to Ecstasy
-./Countdown to Ecstasy/AlbumArtSmall.jpg
-./Countdown to Ecstasy/AlbumArt_{4FD64478-E026-49B6-BE10-D69B8387CD5D}_Large.jpg
-./Countdown to Ecstasy/AlbumArt_{4FD64478-E026-49B6-BE10-D69B8387CD5D}_Small.jpg
 ./Countdown to Ecstasy/Bodhisattva.mp3
 ./Countdown to Ecstasy/Countdown to Ecstasy.jpg
-./Countdown to Ecstasy/Folder.jpg
 ./Countdown to Ecstasy/King of the World.mp3
 ./Countdown to Ecstasy/My Old School.mp3
 ./Countdown to Ecstasy/Pearl of the Quarter.mp3
@@ -344,12 +272,10 @@
 ./Countdown to Ecstasy/The Boston Rag.mp3
 ./Countdown to Ecstasy/Your Gold Teeth.mp3
 ./Crime Slunk Scene
-./Crime Slunk Scene/AlbumArtSmall.jpg
 ./Crime Slunk Scene/Buddy Berkman's Ballad.mp3
 ./Crime Slunk Scene/Col. Austin vs. Col. Sanders a.k.a. Red Track Suit.mp3
 ./Crime Slunk Scene/Crime Slunk Scene.jpg
 ./Crime Slunk Scene/Electronic Slight of Hand.mp3
-./Crime Slunk Scene/Folder.jpg
 ./Crime Slunk Scene/Gory Head Stump 2006 The Pageant of the Slunks.mp3
 ./Crime Slunk Scene/King James.mp3
 ./Crime Slunk Scene/Mad Monster Party.mp3
@@ -359,38 +285,26 @@
 ./Crime Slunk Scene/The Fairy and the Devil.mp3
 ./Crime Slunk Scene/We Can Rebuild Him.mp3
 ./Crystal Weed
-./Crystal Weed/AlbumArtSmall.jpg
 ./Crystal Weed/Crystal Weed (Original Mix).mp3
 ./Crystal Weed/Crystal Weed.jpg
-./Crystal Weed/Folder.jpg
-./Crystal Weed/Thumbs.db
 ./Cultösaurus Erectus
-./Cultösaurus Erectus/AlbumArtSmall.jpg
 ./Cultösaurus Erectus/Black Blade.mp3
 ./Cultösaurus Erectus/Cultösaurus Erectus.jpg
 ./Cultösaurus Erectus/Deadline.mp3
 ./Cultösaurus Erectus/Divine Wind.mp3
 ./Cultösaurus Erectus/Fallen Angel.mp3
-./Cultösaurus Erectus/Folder.jpg
 ./Cultösaurus Erectus/Hungry Boys.mp3
 ./Cultösaurus Erectus/Lips in the Hills.mp3
 ./Cultösaurus Erectus/Monsters.mp3
 ./Cultösaurus Erectus/The Marshall Plan.mp3
 ./Cultösaurus Erectus/Unknown Tongue.mp3
 ./Curtain Call The Hits
-./Curtain Call The Hits/AlbumArtSmall.jpg
 ./Curtain Call The Hits/Curtain Call The Hits.jpg
 ./Curtain Call The Hits/Fack.mp3
-./Curtain Call The Hits/Folder.jpg
-./Curtain Call The Hits/Thumbs.db
 ./Curtis
-./Curtis/AlbumArtSmall.jpg
 ./Curtis/Curtis.jpg
-./Curtis/Folder.jpg
 ./Curtis/Straight to the Bank.mp3
-./Curtis/Thumbs.db
 ./Dawn of the Deli Creeps
-./Dawn of the Deli Creeps/AlbumArtSmall.jpg
 ./Dawn of the Deli Creeps/Beauty of Life.mp3
 ./Dawn of the Deli Creeps/Boom Ch Ka.mp3
 ./Dawn of the Deli Creeps/Buns of Steel.mp3
@@ -400,48 +314,32 @@
 ./Dawn of the Deli Creeps/Dawn of the Deli Creeps.jpg
 ./Dawn of the Deli Creeps/Dream Girl.mp3
 ./Dawn of the Deli Creeps/Flesh for the Beast.mp3
-./Dawn of the Deli Creeps/Folder.jpg
 ./Dawn of the Deli Creeps/Found Body.mp3
 ./Dawn of the Deli Creeps/Grampa Bill.mp3
 ./Dawn of the Deli Creeps/Hatchet.mp3
 ./Dawn of the Deli Creeps/Random Killing.mp3
 ./Dawn of the Deli Creeps/Time.mp3
 ./De La Soul Is Dead
-./De La Soul Is Dead/AlbumArtSmall.jpg
 ./De La Soul Is Dead/De La Soul Is Dead.jpg
-./De La Soul Is Dead/Folder.jpg
 ./De La Soul Is Dead/Oodles of O's.mp3
 ./Death Alley
-./Death Alley/AlbumArtSmall.jpg
 ./Death Alley/Death Alley.jpg
 ./Death Alley/Death Alley.mp3
-./Death Alley/Folder.jpg
-./Death Alley/Thumbs.db
 ./Demon Days
-./Demon Days/AlbumArtSmall.jpg
 ./Demon Days/Demon Days.jpg
 ./Demon Days/Feel Good Inc..mp3
-./Demon Days/Folder.jpg
 ./Dig That Groove Baby
-./Dig That Groove Baby/AlbumArtSmall.jpg
 ./Dig That Groove Baby/Dig That Groove Baby.jpg
 ./Dig That Groove Baby/Dig That Groove Baby.mp3
-./Dig That Groove Baby/Folder.jpg
-./Dig That Groove Baby/Thumbs.db
 ./Dinosaurchestra
-./Dinosaurchestra/AlbumArtSmall.jpg
 ./Dinosaurchestra/Dinosaurchestra.jpg
-./Dinosaurchestra/Folder.jpg
 ./Dinosaurchestra/The Ultimate Showdown of Ultimate Destiny.mp3
-./Dinosaurchestra/Thumbs.db
 ./Discovery
 ./Discovery/Aerodynamic.mp3
-./Discovery/AlbumArtSmall.jpg
 ./Discovery/Crescendolls.mp3
 ./Discovery/Digital Love.mp3
 ./Discovery/Discovery.jpg
 ./Discovery/Face to Face.mp3
-./Discovery/Folder.jpg
 ./Discovery/Harder, Better, Faster, Stronger.mp3
 ./Discovery/High Life.mp3
 ./Discovery/Nightvision.mp3
@@ -449,51 +347,31 @@
 ./Discovery/Short Circuit.mp3
 ./Discovery/Something About Us.mp3
 ./Discovery/Superheroes.mp3
-./Discovery/Thumbs.db
 ./Discovery/Too Long.mp3
 ./Discovery/Veridis Quo.mp3
 ./Discovery/Voyager.mp3
 ./Diz 'n Bird at Carnegie Hall
 ./Diz 'n Bird at Carnegie Hall/A Night in Tunisia.mp3
-./Diz 'n Bird at Carnegie Hall/AlbumArtSmall.jpg
 ./Diz 'n Bird at Carnegie Hall/Diz 'n Bird at Carnegie Hall.jpg
-./Diz 'n Bird at Carnegie Hall/Folder.jpg
 ./Dream Police
-./Dream Police/AlbumArtSmall.jpg
 ./Dream Police/Dream Police.jpg
 ./Dream Police/Dream Police.mp3
-./Dream Police/Folder.jpg
-./Dream Police/Thumbs.db
 ./Drop It Like It's Hot
-./Drop It Like It's Hot/AlbumArtSmall.jpg
 ./Drop It Like It's Hot/Drop It Like It's Hot.jpg
 ./Drop It Like It's Hot/Drop It Like It's Hot.mp3
-./Drop It Like It's Hot/Folder.jpg
-./Drop It Like It's Hot/Thumbs.db
 ./Drunken Lullabies
-./Drunken Lullabies/AlbumArtSmall.jpg
 ./Drunken Lullabies/Drunken Lullabies.jpg
 ./Drunken Lullabies/Drunken Lullabies.mp3
-./Drunken Lullabies/Folder.jpg
-./Drunken Lullabies/Thumbs.db
 ./Electric
-./Electric/AlbumArtSmall.jpg
 ./Electric/Bad Fun.mp3
 ./Electric/Electric.jpg
-./Electric/Folder.jpg
-./Electric/Thumbs.db
 ./Elephant
-./Elephant/AlbumArtSmall.jpg
 ./Elephant/Elephant.jpg
-./Elephant/Folder.jpg
 ./Elephant/Seven Nation Army.mp3
-./Elephant/Thumbs.db
 ./Enter the Chicken
-./Enter the Chicken/AlbumArtSmall.jpg
 ./Enter the Chicken/Botnus.mp3
 ./Enter the Chicken/Coma.mp3
 ./Enter the Chicken/Enter the Chicken.jpg
-./Enter the Chicken/Folder.jpg
 ./Enter the Chicken/Funbus.mp3
 ./Enter the Chicken/Interlude.mp3
 ./Enter the Chicken/Intro.mp3
@@ -504,43 +382,24 @@
 ./Enter the Chicken/Waiting Hare.mp3
 ./Enter the Chicken/We Are One.mp3
 ./Escape
-./Escape/AlbumArtSmall.jpg
-./Escape/AlbumArt_{4BE80F3E-2AD5-4272-A6ED-467F2D21C663}_Large.jpg
-./Escape/AlbumArt_{4BE80F3E-2AD5-4272-A6ED-467F2D21C663}_Small.jpg
 ./Escape/Don't Stop Believin'.mp3
 ./Escape/Escape.jpg
-./Escape/Folder.jpg
-./Escape/Thumbs.db
 ./Europop
-./Europop/AlbumArtSmall.jpg
 ./Europop/Blue (Da Ba Dee) (extended mix).mp3
 ./Europop/Europop.jpg
-./Europop/Folder.jpg
-./Europop/Thumbs.db
 ./Even Now
-./Even Now/AlbumArtSmall.jpg
 ./Even Now/Copacabana (At the Copa).mp3
 ./Even Now/Even Now.jpg
-./Even Now/Folder.jpg
-./Even Now/Thumbs.db
 ./Everything Must Go
-./Everything Must Go/AlbumArtSmall.jpg
 ./Everything Must Go/Everything Must Go.jpg
-./Everything Must Go/Folder.jpg
 ./Everything Must Go/Godwhacker.mp3
 ./Everything Must Go/Green Book.mp3
-./Everything Must Go/Thumbs.db
 ./Eye of the Tiger
-./Eye of the Tiger/AlbumArtSmall.jpg
 ./Eye of the Tiger/Eye of the Tiger.jpg
 ./Eye of the Tiger/Eye of the Tiger.mp3
-./Eye of the Tiger/Folder.jpg
-./Eye of the Tiger/Thumbs.db
 ./Fashion Nugget
-./Fashion Nugget/AlbumArtSmall.jpg
 ./Fashion Nugget/Daria.mp3
 ./Fashion Nugget/Fashion Nugget.jpg
-./Fashion Nugget/Folder.jpg
 ./Fashion Nugget/Frank Sinatra.mp3
 ./Fashion Nugget/Friend Is a Four Letter Word.mp3
 ./Fashion Nugget/I Will Survive.mp3
@@ -554,36 +413,25 @@
 ./Fashion Nugget/She'll Come Back to Me.mp3
 ./Fashion Nugget/Stickshifts and Safetybelts.mp3
 ./Fashion Nugget/The Distance.mp3
-./Fashion Nugget/Thumbs.db
 ./Fight With Tools
-./Fight With Tools/AlbumArtSmall.jpg
 ./Fight With Tools/Fight With Tools.jpg
-./Fight With Tools/Folder.jpg
 ./Fight With Tools/Handlebars.mp3
 ./Fight With Tools/Stand Up.mp3
-./Fight With Tools/Thumbs.db
 ./Fire of Unknown Origin
 ./Fire of Unknown Origin/After Dark.mp3
-./Fire of Unknown Origin/AlbumArtSmall.jpg
 ./Fire of Unknown Origin/Burnin' for You.mp3
 ./Fire of Unknown Origin/Don't Turn Your Back.mp3
 ./Fire of Unknown Origin/Fire of Unknown Origin.jpg
 ./Fire of Unknown Origin/Fire of Unknown Origin.mp3
-./Fire of Unknown Origin/Folder.jpg
 ./Fire of Unknown Origin/Heavy Metal_ The Black and Silver.mp3
 ./Fire of Unknown Origin/Joan Crawford.mp3
 ./Fire of Unknown Origin/Sole Survivor.mp3
-./Fire of Unknown Origin/Thumbs.db
 ./Fire of Unknown Origin/Vengeance (The Pact).mp3
 ./Fire of Unknown Origin/Veteran of the Psychic Wars.mp3
 ./First Born
-./First Born/AlbumArtSmall.jpg
 ./First Born/Big Shots.mp3
 ./First Born/First Born.jpg
-./First Born/Folder.jpg
-./First Born/Thumbs.db
 ./Florrmat
-./Florrmat/AlbumArtSmall.jpg
 ./Florrmat/Florrmat part 1.mp3
 ./Florrmat/Florrmat part 2.mp3
 ./Florrmat/Florrmat part 3.mp3
@@ -592,19 +440,13 @@
 ./Florrmat/Florrmat part 6.mp3
 ./Florrmat/Florrmat part 7.mp3
 ./Florrmat/Florrmat.jpg
-./Florrmat/Folder.jpg
 ./Fly by Night
-./Fly by Night/AlbumArtSmall.jpg
 ./Fly by Night/Fly by Night.jpg
 ./Fly by Night/Fly by Night.mp3
-./Fly by Night/Folder.jpg
-./Fly by Night/Thumbs.db
 ./Frankenchrist
 ./Frankenchrist/A Growing Boy Needs His Lunch.mp3
-./Frankenchrist/AlbumArtSmall.jpg
 ./Frankenchrist/At My Job.mp3
 ./Frankenchrist/Chicken Farm.mp3
-./Frankenchrist/Folder.jpg
 ./Frankenchrist/Frankenchrist.jpg
 ./Frankenchrist/Goons of Hazzard.mp3
 ./Frankenchrist/Hellnation.mp3
@@ -613,33 +455,22 @@
 ./Frankenchrist/Soup Is Good Food.mp3
 ./Frankenchrist/Stars and Stripes of Corruption.mp3
 ./Frankenchrist/This Could Be Anywhere (This Could Be Everywhere).mp3
-./Frankenchrist/Thumbs.db
 ./Gangsta's Paradise
-./Gangsta's Paradise/AlbumArtSmall.jpg
-./Gangsta's Paradise/Folder.jpg
 ./Gangsta's Paradise/Gangsta's Paradise.jpg
 ./Gangsta's Paradise/Gangsta's Paradise.mp3
-./Gangsta's Paradise/Thumbs.db
 ./Gaucho
-./Gaucho/AlbumArtSmall.jpg
 ./Gaucho/Babylon Sisters.mp3
-./Gaucho/Folder.jpg
 ./Gaucho/Gaucho.jpg
 ./Gaucho/Gaucho.mp3
 ./Gaucho/Glamour Profession.mp3
 ./Gaucho/Hey Nineteen.mp3
 ./Gaucho/My Rival.mp3
 ./Gaucho/Third World Man.mp3
-./Gaucho/Thumbs.db
 ./Gaucho/Time Out of Mind.mp3
 ./Get Rich or Die Tryin'
-./Get Rich or Die Tryin'/AlbumArtSmall.jpg
-./Get Rich or Die Tryin'/Folder.jpg
 ./Get Rich or Die Tryin'/Get Rich or Die Tryin'.jpg
 ./Get Rich or Die Tryin'/In da Club.mp3
-./Get Rich or Die Tryin'/Thumbs.db
 ./Giant Robot
-./Giant Robot/AlbumArtSmall.jpg
 ./Giant Robot/Aquabot.mp3
 ./Giant Robot/Binge and Grab (instrumental version).mp3
 ./Giant Robot/Buckethead's Chamber of Horrors.mp3
@@ -647,7 +478,6 @@
 ./Giant Robot/Buckethead's Toy Store.mp3
 ./Giant Robot/Chicken.mp3
 ./Giant Robot/Doomride.mp3
-./Giant Robot/Folder.jpg
 ./Giant Robot/Giant Robot.jpg
 ./Giant Robot/I Come in Peace.mp3
 ./Giant Robot/I Love My Parents.mp3
@@ -663,10 +493,8 @@
 ./Giant Robot/Welcome to Bucketheadland.mp3
 ./Give Me Convenience or Give Me Death
 ./Give Me Convenience or Give Me Death/A Child and His Lawnmower.mp3
-./Give Me Convenience or Give Me Death/AlbumArtSmall.jpg
 ./Give Me Convenience or Give Me Death/Buzzbomb From Pasadena.mp3
 ./Give Me Convenience or Give Me Death/California Über Alles.mp3
-./Give Me Convenience or Give Me Death/Folder.jpg
 ./Give Me Convenience or Give Me Death/Give Me Convenience or Give Me Death.jpg
 ./Give Me Convenience or Give Me Death/Holiday in Cambodia.mp3
 ./Give Me Convenience or Give Me Death/I Fought the Law.mp3
@@ -681,45 +509,27 @@
 ./Give Me Convenience or Give Me Death/Straight A's.mp3
 ./Give Me Convenience or Give Me Death/The Man With the Dogs.mp3
 ./Give Me Convenience or Give Me Death/The Prey.mp3
-./Give Me Convenience or Give Me Death/Thumbs.db
 ./Give Me Convenience or Give Me Death/Too Drunk to Fuck.mp3
 ./Go, Champs, Go!
-./Go, Champs, Go!/AlbumArtSmall.jpg
-./Go, Champs, Go!/Folder.jpg
 ./Go, Champs, Go!/Go, Champs, Go!.jpg
 ./Go, Champs, Go!/Tequila.mp3
-./Go, Champs, Go!/Thumbs.db
 ./God Bless Tiny Tim
-./God Bless Tiny Tim/AlbumArtSmall.jpg
-./God Bless Tiny Tim/Folder.jpg
 ./God Bless Tiny Tim/God Bless Tiny Tim.jpg
 ./God Bless Tiny Tim/Livin' in the Sunlight, Lovin' in the Moonlight.mp3
-./God Bless Tiny Tim/Thumbs.db
 ./Good Things
-./Good Things/AlbumArtSmall.jpg
-./Good Things/Folder.jpg
 ./Good Things/Good Things.jpg
 ./Good Things/I Need a Dollar.mp3
-./Good Things/Thumbs.db
 ./Goodbye Horses
-./Goodbye Horses/AlbumArtSmall.jpg
-./Goodbye Horses/Folder.jpg
 ./Goodbye Horses/Goodbye Horses (extended version).mp3
 ./Goodbye Horses/Goodbye Horses.jpg
-./Goodbye Horses/Thumbs.db
 ./Gorillaz
 ./Gorillaz/19-2000.mp3
-./Gorillaz/AlbumArtSmall.jpg
 ./Gorillaz/Clint Eastwood.mp3
-./Gorillaz/Folder.jpg
 ./Gorillaz/Gorillaz.jpg
-./Gorillaz/Thumbs.db
 ./Green Onions
 ./Green Onions/A Woman, a Lover, a Friend.mp3
-./Green Onions/AlbumArtSmall.jpg
 ./Green Onions/Behave Yourself.mp3
 ./Green Onions/Comin' Home Baby.mp3
-./Green Onions/Folder.jpg
 ./Green Onions/Green Onions.jpg
 ./Green Onions/Green Onions.mp3
 ./Green Onions/I Got a Woman.mp3
@@ -731,14 +541,12 @@
 ./Green Onions/Twist and Shout.mp3
 ./Green Onions/You Can't Sit Down.mp3
 ./Guero
-./Guero/AlbumArtSmall.jpg
 ./Guero/Black Tambourine.mp3
 ./Guero/Broken Drum.mp3
 ./Guero/E-Pro.mp3
 ./Guero/Earthquake Weather.mp3
 ./Guero/Emergency Exit.mp3
 ./Guero/Farewell Ride.mp3
-./Guero/Folder.jpg
 ./Guero/Girl.mp3
 ./Guero/Go It Alone.mp3
 ./Guero/Guero.jpg
@@ -747,41 +555,25 @@
 ./Guero/Qué Onda Guero.mp3
 ./Guero/Rental Car.mp3
 ./Guero/Scarecrow.mp3
-./Guero/Thumbs.db
 ./Haiku D'Etat
-./Haiku D'Etat/AlbumArtSmall.jpg
-./Haiku D'Etat/AlbumArt_{4156CB86-1A46-4EBC-8F06-C2D815B88CEC}_Large.jpg
-./Haiku D'Etat/AlbumArt_{4156CB86-1A46-4EBC-8F06-C2D815B88CEC}_Small.jpg
-./Haiku D'Etat/Folder.jpg
 ./Haiku D'Etat/Haiku D'Etat.jpg
 ./Haiku D'Etat/Non Compos Mentis.mp3
-./Haiku D'Etat/Thumbs.db
 ./Halo 2, Volume 1
-./Halo 2, Volume 1/AlbumArtSmall.jpg
 ./Halo 2, Volume 1/Blow Me Away.mp3
-./Halo 2, Volume 1/Folder.jpg
 ./Halo 2, Volume 1/Halo 2, Volume 1.jpg
-./Halo 2, Volume 1/Thumbs.db
 ./Hard to Earn
-./Hard to Earn/AlbumArtSmall.jpg
-./Hard to Earn/Folder.jpg
 ./Hard to Earn/Hard to Earn.jpg
 ./Hard to Earn/Mass Appeal.mp3
-./Hard to Earn/Thumbs.db
 ./Head Hunters
-./Head Hunters/AlbumArtSmall.jpg
 ./Head Hunters/Chameleon.mp3
-./Head Hunters/Folder.jpg
 ./Head Hunters/Head Hunters.jpg
 ./Head Hunters/Sly.mp3
 ./Head Hunters/Vein Melter.mp3
 ./Head Hunters/Watermelon Man.mp3
 ./Heavy Metal Music From the Motion Picture
-./Heavy Metal Music From the Motion Picture/AlbumArtSmall.jpg
 ./Heavy Metal Music From the Motion Picture/All of You.mp3
 ./Heavy Metal Music From the Motion Picture/Blue Lamp.mp3
 ./Heavy Metal Music From the Motion Picture/Crazy (A Suitable Case for Treatment).mp3
-./Heavy Metal Music From the Motion Picture/Folder.jpg
 ./Heavy Metal Music From the Motion Picture/Heartbeat.mp3
 ./Heavy Metal Music From the Motion Picture/Heavy Metal (Takin' a Ride).mp3
 ./Heavy Metal Music From the Motion Picture/Heavy Metal Music From the Motion Picture.jpg
@@ -793,40 +585,24 @@
 ./Heavy Metal Music From the Motion Picture/Radar Rider.mp3
 ./Heavy Metal Music From the Motion Picture/Reach Out.mp3
 ./Heavy Metal Music From the Motion Picture/The Mob Rules.mp3
-./Heavy Metal Music From the Motion Picture/Thumbs.db
 ./Heavy Metal Music From the Motion Picture/True Companion.mp3
 ./Heavy Metal Music From the Motion Picture/Veteran of the Psychic Wars.mp3
 ./Heavy Metal Music From the Motion Picture/Working in the Coal Mine.mp3
 ./Hello Rockview
-./Hello Rockview/AlbumArtSmall.jpg
 ./Hello Rockview/All My Best Friends Are Metalheads.mp3
-./Hello Rockview/Folder.jpg
 ./Hello Rockview/Hello Rockview.jpg
-./Hello Rockview/Thumbs.db
 ./Hello, Goodbye
-./Hello, Goodbye/AlbumArtSmall.jpg
-./Hello, Goodbye/Folder.jpg
 ./Hello, Goodbye/Hello, Goodbye.jpg
 ./Hello, Goodbye/I Am the Walrus.mp3
 ./Hey Ya!
-./Hey Ya!/AlbumArtSmall.jpg
-./Hey Ya!/Folder.jpg
 ./Hey Ya!/Hey Ya! (radio edit).mp3
 ./Hey Ya!/Hey Ya!.jpg
-./Hey Ya!/Thumbs.db
 ./Highway to Hell
-./Highway to Hell/AlbumArtSmall.jpg
-./Highway to Hell/AlbumArt_{F57EC579-9105-459D-A789-FC2902C80C83}_Large.jpg
-./Highway to Hell/AlbumArt_{F57EC579-9105-459D-A789-FC2902C80C83}_Small.jpg
-./Highway to Hell/Folder.jpg
 ./Highway to Hell/Highway to Hell.jpg
 ./Highway to Hell/Highway to Hell.mp3
-./Highway to Hell/Thumbs.db
 ./Holy Diver
-./Holy Diver/AlbumArtSmall.jpg
 ./Holy Diver/Caught in the Middle.mp3
 ./Holy Diver/Don't Talk to Strangers.mp3
-./Holy Diver/Folder.jpg
 ./Holy Diver/Gypsy.mp3
 ./Holy Diver/Holy Diver.jpg
 ./Holy Diver/Holy Diver.mp3
@@ -835,57 +611,32 @@
 ./Holy Diver/Shame on the Night.mp3
 ./Holy Diver/Stand Up and Shout.mp3
 ./Holy Diver/Straight Through the Heart.mp3
-./Holy Diver/Thumbs.db
 ./Hotel California
-./Hotel California/AlbumArtSmall.jpg
-./Hotel California/Folder.jpg
 ./Hotel California/Hotel California.jpg
 ./Hotel California/Hotel California.mp3
 ./How to Dismantle an Atomic Bomb
-./How to Dismantle an Atomic Bomb/AlbumArtSmall.jpg
 ./How to Dismantle an Atomic Bomb/City of Blinding Lights.mp3
-./How to Dismantle an Atomic Bomb/Folder.jpg
 ./How to Dismantle an Atomic Bomb/How to Dismantle an Atomic Bomb.jpg
-./How to Dismantle an Atomic Bomb/Thumbs.db
 ./How to Dismantle an Atomic Bomb/Vertigo.mp3
 ./Humble African
-./Humble African/AlbumArtSmall.jpg
-./Humble African/Folder.jpg
 ./Humble African/Humble African.jpg
-./Humble African/Thumbs.db
 ./Humble African/Why Am I a Rastaman.mp3
 ./I Got You (I Feel Good)
-./I Got You (I Feel Good)/AlbumArtSmall.jpg
-./I Got You (I Feel Good)/Folder.jpg
 ./I Got You (I Feel Good)/I Got You (I Feel Good).jpg
 ./I Got You (I Feel Good)/I Got You (I Feel Good).mp3
-./I Got You (I Feel Good)/Thumbs.db
 ./I'm Nearly Famous
-./I'm Nearly Famous/AlbumArtSmall.jpg
 ./I'm Nearly Famous/Devil Woman.mp3
-./I'm Nearly Famous/Folder.jpg
 ./I'm Nearly Famous/I'm Nearly Famous.jpg
-./I'm Nearly Famous/Thumbs.db
 ./If You Can Believe Your Eyes and Ears
-./If You Can Believe Your Eyes and Ears/AlbumArtSmall.jpg
 ./If You Can Believe Your Eyes and Ears/California Dreamin'.mp3
-./If You Can Believe Your Eyes and Ears/Folder.jpg
 ./If You Can Believe Your Eyes and Ears/If You Can Believe Your Eyes and Ears.jpg
-./If You Can Believe Your Eyes and Ears/Thumbs.db
 ./In Your Honor
-./In Your Honor/AlbumArtSmall.jpg
-./In Your Honor/AlbumArt_{C091494B-A736-4E43-AEF5-156208755EF9}_Large.jpg
-./In Your Honor/AlbumArt_{C091494B-A736-4E43-AEF5-156208755EF9}_Small.jpg
-./In Your Honor/Folder.jpg
 ./In Your Honor/In Your Honor.jpg
 ./In Your Honor/Over and Out.mp3
-./In Your Honor/Thumbs.db
 ./It's Alive
-./It's Alive/AlbumArtSmall.jpg
 ./It's Alive/Barnyard Banties.mp3
 ./It's Alive/Brooding Peeps.mp3
 ./It's Alive/Crack the Sky.mp3
-./It's Alive/Folder.jpg
 ./It's Alive/It's Alive.jpg
 ./It's Alive/Lebrontron.mp3
 ./It's Alive/Peeling Out.mp3
@@ -893,37 +644,25 @@
 ./It's Alive/The Hatch.mp3
 ./It's Alive/Tonka.mp3
 ./Jamboree
-./Jamboree/AlbumArtSmall.jpg
-./Jamboree/Folder.jpg
 ./Jamboree/Jamboree.jpg
 ./Jamboree/Swag Surfin'.mp3
-./Jamboree/Thumbs.db
 ./Joe's Garage Act I
-./Joe's Garage Act I/AlbumArtSmall.jpg
-./Joe's Garage Act I/Folder.jpg
 ./Joe's Garage Act I/Joe's Garage Act I.jpg
 ./Joe's Garage Act I/Joe's Garage.mp3
-./Joe's Garage Act I/Thumbs.db
 ./Jordan
-./Jordan/AlbumArtSmall.jpg
-./Jordan/Folder.jpg
 ./Jordan/Jordan.jpg
 ./Jordan/Jordan.mp3
 ./Kamakiriad
-./Kamakiriad/AlbumArtSmall.jpg
 ./Kamakiriad/Countermoon.mp3
 ./Kamakiriad/Florida Room.mp3
-./Kamakiriad/Folder.jpg
 ./Kamakiriad/Kamakiriad.jpg
 ./Kamakiriad/On the Dunes.mp3
 ./Kamakiriad/Snowbound.mp3
 ./Kamakiriad/Springtime.mp3
 ./Kamakiriad/Teahouse on the Tracks.mp3
-./Kamakiriad/Thumbs.db
 ./Kamakiriad/Tomorrow's Girls.mp3
 ./Kamakiriad/Trans-Island Skyway.mp3
 ./Katy Lied
-./Katy Lied/AlbumArtSmall.jpg
 ./Katy Lied/Any World (That I'm Welcome To).mp3
 ./Katy Lied/Bad Sneakers.mp3
 ./Katy Lied/Black Friday.mp3
@@ -931,29 +670,19 @@
 ./Katy Lied/Daddy Don't Live in That New York City No More.mp3
 ./Katy Lied/Doctor Wu.mp3
 ./Katy Lied/Everyone's Gone to the Movies.mp3
-./Katy Lied/Folder.jpg
 ./Katy Lied/Katy Lied.jpg
 ./Katy Lied/Rose Darling.mp3
 ./Katy Lied/Throw Back the Little Ones.mp3
-./Katy Lied/Thumbs.db
 ./Katy Lied/Your Gold Teeth II.mp3
 ./Kaya
-./Kaya/AlbumArtSmall.jpg
-./Kaya/Folder.jpg
 ./Kaya/Is This Love.mp3
 ./Kaya/Kaya.jpg
-./Kaya/Thumbs.db
 ./Keep It Unreal
-./Keep It Unreal/AlbumArtSmall.jpg
-./Keep It Unreal/Folder.jpg
 ./Keep It Unreal/Get a Move On.mp3
 ./Keep It Unreal/Keep It Unreal.jpg
-./Keep It Unreal/Thumbs.db
 ./Keeping My Composure
 ./Keeping My Composure/2 by 6.mp3
-./Keeping My Composure/AlbumArtSmall.jpg
 ./Keeping My Composure/B.S..mp3
-./Keeping My Composure/Folder.jpg
 ./Keeping My Composure/If You Were Mine.mp3
 ./Keeping My Composure/Jeannine.mp3
 ./Keeping My Composure/Keeping My Composure.jpg
@@ -965,15 +694,10 @@
 ./Keeping My Composure/Recipe for Romance.mp3
 ./Keeping My Composure/Vitamin B-3.mp3
 ./Kilroy Was Here
-./Kilroy Was Here/AlbumArtSmall.jpg
-./Kilroy Was Here/Folder.jpg
 ./Kilroy Was Here/Kilroy Was Here.jpg
 ./Kilroy Was Here/Mr. Roboto.mp3
-./Kilroy Was Here/Thumbs.db
 ./King of the Surf Guitar The Best of Dick Dale and His Del-Tones
-./King of the Surf Guitar The Best of Dick Dale and His Del-Tones/AlbumArtSmall.jpg
 ./King of the Surf Guitar The Best of Dick Dale and His Del-Tones/Banzai Washout.mp3
-./King of the Surf Guitar The Best of Dick Dale and His Del-Tones/Folder.jpg
 ./King of the Surf Guitar The Best of Dick Dale and His Del-Tones/Hava Nagila.mp3
 ./King of the Surf Guitar The Best of Dick Dale and His Del-Tones/King of the Surf Guitar (vocal).mp3
 ./King of the Surf Guitar The Best of Dick Dale and His Del-Tones/King of the Surf Guitar The Best of Dick Dale and His Del-Tones.jpg
@@ -993,16 +717,11 @@
 ./King of the Surf Guitar The Best of Dick Dale and His Del-Tones/The Wedge.mp3
 ./King of the Surf Guitar The Best of Dick Dale and His Del-Tones/Tidal Wave.mp3
 ./Labor Days
-./Labor Days/AlbumArtSmall.jpg
-./Labor Days/Folder.jpg
 ./Labor Days/Labor Days.jpg
 ./Labor Days/Labor.mp3
-./Labor Days/Thumbs.db
 ./Let's Get It On
-./Let's Get It On/AlbumArtSmall.jpg
 ./Let's Get It On/Come Get to This.mp3
 ./Let's Get It On/Distant Lover.mp3
-./Let's Get It On/Folder.jpg
 ./Let's Get It On/If I Should Die Tonight.mp3
 ./Let's Get It On/Just to Keep You Satisfied.mp3
 ./Let's Get It On/Keep Gettin' It On.mp3
@@ -1011,26 +730,15 @@
 ./Let's Get It On/Please Stay (Once You Go Away).mp3
 ./Let's Get It On/You Sure Love to Ball.mp3
 ./Living in Darkness
-./Living in Darkness/AlbumArtSmall.jpg
 ./Living in Darkness/Bloodstains (Darkness version).mp3
-./Living in Darkness/Folder.jpg
 ./Living in Darkness/Living in Darkness.jpg
-./Living in Darkness/Thumbs.db
 ./Living Thing
-./Living Thing/AlbumArtSmall.jpg
-./Living Thing/Folder.jpg
 ./Living Thing/Living Thing.jpg
 ./Living Thing/Nothing to Worry About.mp3
-./Living Thing/Thumbs.db
 ./Love for the Streets
-./Love for the Streets/AlbumArtSmall.jpg
-./Love for the Streets/Folder.jpg
 ./Love for the Streets/Jerk It Out.mp3
 ./Love for the Streets/Love for the Streets.jpg
-./Love for the Streets/Thumbs.db
 ./Machine Head
-./Machine Head/AlbumArtSmall.jpg
-./Machine Head/Folder.jpg
 ./Machine Head/Highway Star.mp3
 ./Machine Head/Lazy.mp3
 ./Machine Head/Machine Head.jpg
@@ -1041,7 +749,6 @@
 ./Machine Head/Space Truckin'.mp3
 ./MadWorld Official Soundtrack
 ./MadWorld Official Soundtrack/Ain't That Funny.mp3
-./MadWorld Official Soundtrack/AlbumArtSmall.jpg
 ./MadWorld Official Soundtrack/Bang.mp3
 ./MadWorld Official Soundtrack/Breathe.mp3
 ./MadWorld Official Soundtrack/Come With It.mp3
@@ -1049,7 +756,6 @@
 ./MadWorld Official Soundtrack/Crimson Rain.mp3
 ./MadWorld Official Soundtrack/Death & Honor.mp3
 ./MadWorld Official Soundtrack/Deathwatch.mp3
-./MadWorld Official Soundtrack/Folder.jpg
 ./MadWorld Official Soundtrack/Get It Up.mp3
 ./MadWorld Official Soundtrack/It's A Mad World.mp3
 ./MadWorld Official Soundtrack/Lets Go!.mp3
@@ -1061,23 +767,15 @@
 ./MadWorld Official Soundtrack/Soul.mp3
 ./MadWorld Official Soundtrack/Survival.mp3
 ./Man on the Moon The End of Day
-./Man on the Moon The End of Day/AlbumArtSmall.jpg
 ./Man on the Moon The End of Day/Day 'n' Nite (Nightmare).mp3
-./Man on the Moon The End of Day/Folder.jpg
 ./Man on the Moon The End of Day/Man on the Moon The End of Day.jpg
-./Man on the Moon The End of Day/Thumbs.db
 ./Mary Jane's Last Dance
-./Mary Jane's Last Dance/AlbumArtSmall.jpg
-./Mary Jane's Last Dance/Folder.jpg
 ./Mary Jane's Last Dance/Mary Jane's Last Dance.jpg
 ./Mary Jane's Last Dance/Mary Jane's Last Dance.mp3
-./Mary Jane's Last Dance/Thumbs.db
 ./Master of Reality
 ./Master of Reality/After Forever.mp3
-./Master of Reality/AlbumArtSmall.jpg
 ./Master of Reality/Children of the Grave.mp3
 ./Master of Reality/Embryo.mp3
-./Master of Reality/Folder.jpg
 ./Master of Reality/Into the Void.mp3
 ./Master of Reality/Lord of This World.mp3
 ./Master of Reality/Master of Reality.jpg
@@ -1085,10 +783,8 @@
 ./Master of Reality/Solitude.mp3
 ./Master of Reality/Sweet Leaf.mp3
 ./Mellow Gold
-./Mellow Gold/AlbumArtSmall.jpg
 ./Mellow Gold/Beercan.mp3
 ./Mellow Gold/Blackhole.mp3
-./Mellow Gold/Folder.jpg
 ./Mellow Gold/Fuckin With My Head (Mountain Dew Rock).mp3
 ./Mellow Gold/Loser.mp3
 ./Mellow Gold/Mellow Gold.jpg
@@ -1098,21 +794,15 @@
 ./Mellow Gold/Soul Suckin Jerk.mp3
 ./Mellow Gold/Steal My Body Home.mp3
 ./Mellow Gold/Sweet Sunshine.mp3
-./Mellow Gold/Thumbs.db
 ./Mellow Gold/Truckdrivin Neighbors Downstairs (Yellow Sweat).mp3
 ./Mellow Gold/Whiskeyclone, Hotel City 1997.mp3
 ./Merry Go Round
-./Merry Go Round/AlbumArtSmall.jpg
-./Merry Go Round/Folder.jpg
 ./Merry Go Round/House of the Rising Drum.mp3
 ./Merry Go Round/Merry Go Round.jpg
-./Merry Go Round/Thumbs.db
 ./Midnite Vultures
-./Midnite Vultures/AlbumArtSmall.jpg
 ./Midnite Vultures/Beautiful Way.mp3
 ./Midnite Vultures/Broken Train.mp3
 ./Midnite Vultures/Debra.mp3
-./Midnite Vultures/Folder.jpg
 ./Midnite Vultures/Get Real Paid.mp3
 ./Midnite Vultures/Hollywood Freaks.mp3
 ./Midnite Vultures/Midnite Vultures.jpg
@@ -1123,14 +813,9 @@
 ./Midnite Vultures/Pressure Zone.mp3
 ./Midnite Vultures/Sexx Laws.mp3
 ./Million Mile Reflections
-./Million Mile Reflections/AlbumArtSmall.jpg
-./Million Mile Reflections/Folder.jpg
 ./Million Mile Reflections/Million Mile Reflections.jpg
 ./Million Mile Reflections/The Devil Went Down to Georgia.mp3
-./Million Mile Reflections/Thumbs.db
 ./Monsters and Robots
-./Monsters and Robots/AlbumArtSmall.jpg
-./Monsters and Robots/Folder.jpg
 ./Monsters and Robots/Jowls.mp3
 ./Monsters and Robots/Jump Man.mp3
 ./Monsters and Robots/Monsters and Robots.jpg
@@ -1146,15 +831,10 @@
 ./Monsters and Robots/The Shape vs. Buckethead.mp3
 ./Monsters and Robots/Who Me.mp3
 ./More Monsters and Sprites
-./More Monsters and Sprites/AlbumArtSmall.jpg
-./More Monsters and Sprites/Folder.jpg
 ./More Monsters and Sprites/More Monsters and Sprites.jpg
 ./More Monsters and Sprites/Ruffneck (FULL Flex).mp3
-./More Monsters and Sprites/Thumbs.db
 ./Morph the Cat
-./Morph the Cat/AlbumArtSmall.jpg
 ./Morph the Cat/Brite Nitegown.mp3
-./Morph the Cat/Folder.jpg
 ./Morph the Cat/H Gang.mp3
 ./Morph the Cat/Mary Shut the Garden Door.mp3
 ./Morph the Cat/Morph the Cat (reprise).mp3
@@ -1165,42 +845,25 @@
 ./Morph the Cat/The Night Belongs to Mona.mp3
 ./Morph the Cat/What I Do.mp3
 ./Moving Pictures
-./Moving Pictures/AlbumArtSmall.jpg
-./Moving Pictures/Folder.jpg
 ./Moving Pictures/Moving Pictures.jpg
-./Moving Pictures/Thumbs.db
 ./Moving Pictures/Tom Sawyer.mp3
 ./Muskabeatz
-./Muskabeatz/AlbumArtSmall.jpg
 ./Muskabeatz/Body Rock.mp3
-./Muskabeatz/Folder.jpg
 ./Muskabeatz/I'm a Star.mp3
 ./Muskabeatz/Muskabeatz.jpg
-./Muskabeatz/Thumbs.db
 ./Muskabeatz/Verses of Doom.mp3
 ./Mutations
-./Mutations/AlbumArtSmall.jpg
-./Mutations/Folder.jpg
 ./Mutations/Mutations.jpg
-./Mutations/Thumbs.db
 ./Mutations/Tropicalia.mp3
 ./Never Mind the Bollocks Here's the Sex Pistols
-./Never Mind the Bollocks Here's the Sex Pistols/AlbumArtSmall.jpg
 ./Never Mind the Bollocks Here's the Sex Pistols/Anarchy in the U.K..mp3
-./Never Mind the Bollocks Here's the Sex Pistols/Folder.jpg
 ./Never Mind the Bollocks Here's the Sex Pistols/Never Mind the Bollocks Here's the Sex Pistols.jpg
-./Never Mind the Bollocks Here's the Sex Pistols/Thumbs.db
 ./Ninja Tuna
-./Ninja Tuna/AlbumArtSmall.jpg
-./Ninja Tuna/Folder.jpg
 ./Ninja Tuna/Kalimba.mp3
 ./Ninja Tuna/Ninja Tuna.jpg
-./Ninja Tuna/Thumbs.db
 ./Odelay
-./Odelay/AlbumArtSmall.jpg
 ./Odelay/Derelict.mp3
 ./Odelay/Devils Haircut.mp3
-./Odelay/Folder.jpg
 ./Odelay/High 5 (Rock the Catskills).mp3
 ./Odelay/Hotwax.mp3
 ./Odelay/Jack-Ass.mp3
@@ -1214,9 +877,7 @@
 ./Odelay/The New Pollution.mp3
 ./Odelay/Where It's At.mp3
 ./Old Toys
-./Old Toys/AlbumArtSmall.jpg
 ./Old Toys/Exit 46.mp3
-./Old Toys/Folder.jpg
 ./Old Toys/Mount Shasta.mp3
 ./Old Toys/Oak Island.mp3
 ./Old Toys/Old Toys.jpg
@@ -1224,16 +885,11 @@
 ./Old Toys/Valley of the Fog.mp3
 ./Old Toys/Zone Ahead.mp3
 ./Open Your Eyes
-./Open Your Eyes/AlbumArtSmall.jpg
-./Open Your Eyes/Folder.jpg
 ./Open Your Eyes/Open Your Eyes.jpg
 ./Open Your Eyes/Spokesman.mp3
-./Open Your Eyes/Thumbs.db
 ./Out of the Attic
-./Out of the Attic/AlbumArtSmall.jpg
 ./Out of the Attic/Chew Chew Train.mp3
 ./Out of the Attic/Dank Dungeon.mp3
-./Out of the Attic/Folder.jpg
 ./Out of the Attic/Giant Jellyfish.mp3
 ./Out of the Attic/Gloom.mp3
 ./Out of the Attic/Nowhere in Particular.mp3
@@ -1241,39 +897,28 @@
 ./Out of the Attic/Out of the Attic.mp3
 ./Out of the Attic/Perilous Garden.mp3
 ./Paint It Black
-./Paint It Black/AlbumArtSmall.jpg
-./Paint It Black/Folder.jpg
 ./Paint It Black/Paint It Black.jpg
 ./Paint It Black/Paint It Black.mp3
-./Paint It Black/Thumbs.db
 ./Paranoid
-./Paranoid/AlbumArtSmall.jpg
 ./Paranoid/Electric Funeral.mp3
 ./Paranoid/Fairies Wear Boots.mp3
-./Paranoid/Folder.jpg
 ./Paranoid/Hand of Doom.mp3
 ./Paranoid/Iron Man.mp3
 ./Paranoid/Paranoid.jpg
 ./Paranoid/Paranoid.mp3
 ./Paranoid/Planet Caravan.mp3
 ./Paranoid/Rat Salad.mp3
-./Paranoid/Thumbs.db
 ./Paranoid/War Pigs.mp3
 ./Partners in Crime
-./Partners in Crime/AlbumArtSmall.jpg
 ./Partners in Crime/Escape (The Piña Colada Song).mp3
-./Partners in Crime/Folder.jpg
 ./Partners in Crime/Partners in Crime.jpg
-./Partners in Crime/Thumbs.db
 ./Pepper's Ghost
-./Pepper's Ghost/AlbumArtSmall.jpg
 ./Pepper's Ghost/Bag Some Game.mp3
 ./Pepper's Ghost/Brewer in the Air.mp3
 ./Pepper's Ghost/Callbox.mp3
 ./Pepper's Ghost/Carpal Tunnel Slug.mp3
 ./Pepper's Ghost/Embalming Plaza.mp3
 ./Pepper's Ghost/Exit 209.mp3
-./Pepper's Ghost/Folder.jpg
 ./Pepper's Ghost/Goblin Shark.mp3
 ./Pepper's Ghost/Imprint (Dedicated to Takashi Miike).mp3
 ./Pepper's Ghost/Magua's Scalp.mp3
@@ -1283,32 +928,22 @@
 ./Pepper's Ghost/The Hills Have Headcheese.mp3
 ./Pepper's Ghost/Towel in the Kitchen.mp3
 ./Piano Man
-./Piano Man/AlbumArtSmall.jpg
-./Piano Man/Folder.jpg
 ./Piano Man/Piano Man.jpg
 ./Piano Man/Piano Man.mp3
-./Piano Man/Thumbs.db
 ./Pike Doors
-./Pike Doors/AlbumArtSmall.jpg
 ./Pike Doors/Door One.mp3
 ./Pike Doors/Door Three.mp3
 ./Pike Doors/Door Two.mp3
-./Pike Doors/Folder.jpg
 ./Pike Doors/Pike Doors.jpg
 ./Police in Helicopter
-./Police in Helicopter/AlbumArtSmall.jpg
-./Police in Helicopter/Folder.jpg
 ./Police in Helicopter/Police in Helicopter.jpg
 ./Police in Helicopter/Police in Helicopter.mp3
-./Police in Helicopter/Thumbs.db
 ./Population Override
 ./Population Override/....mp3
 ./Population Override/A Day Will Come.mp3
-./Population Override/AlbumArtSmall.jpg
 ./Population Override/Clones.mp3
 ./Population Override/Cruel Reality of Nature.mp3
 ./Population Override/Earth Heals Herself.mp3
-./Population Override/Folder.jpg
 ./Population Override/Humans Vanish.mp3
 ./Population Override/Population Override.jpg
 ./Population Override/Population Override.mp3
@@ -1316,12 +951,10 @@
 ./Population Override/Too Many Humans.mp3
 ./Population Override/Unrestrained Growth.mp3
 ./Pretzel Logic
-./Pretzel Logic/AlbumArtSmall.jpg
 ./Pretzel Logic/Any Major Dude Will Tell You.mp3
 ./Pretzel Logic/Barrytown.mp3
 ./Pretzel Logic/Charlie Freak.mp3
 ./Pretzel Logic/East St. Louis Toodle-Oo.mp3
-./Pretzel Logic/Folder.jpg
 ./Pretzel Logic/Monkey in Your Soul.mp3
 ./Pretzel Logic/Night by Night.mp3
 ./Pretzel Logic/Parker's Band.mp3
@@ -1329,13 +962,10 @@
 ./Pretzel Logic/Pretzel Logic.mp3
 ./Pretzel Logic/Rikki Don't Lose That Number.mp3
 ./Pretzel Logic/Through With Buzz.mp3
-./Pretzel Logic/Thumbs.db
 ./Pretzel Logic/With a Gun.mp3
 ./Prolonging the Magic
-./Prolonging the Magic/AlbumArtSmall.jpg
 ./Prolonging the Magic/Alpha Beta Parking Lot.mp3
 ./Prolonging the Magic/Cool Blue Reason.mp3
-./Prolonging the Magic/Folder.jpg
 ./Prolonging the Magic/Guitar.mp3
 ./Prolonging the Magic/Hem of Your Garment.mp3
 ./Prolonging the Magic/Let Me Go.mp3
@@ -1344,41 +974,26 @@
 ./Prolonging the Magic/Prolonging the Magic.jpg
 ./Prolonging the Magic/Satan Is My Motor.mp3
 ./Prolonging the Magic/Sheep Go to Heaven.mp3
-./Prolonging the Magic/Thumbs.db
 ./Prolonging the Magic/Walk On By.mp3
 ./Prolonging the Magic/When You Sleep.mp3
 ./Prolonging the Magic/Where Would I Be.mp3
 ./Prolonging the Magic/You Turn the Screws.mp3
 ./Raising Hell
-./Raising Hell/AlbumArtSmall.jpg
-./Raising Hell/Folder.jpg
 ./Raising Hell/My Adidas.mp3
 ./Raising Hell/Raising Hell.jpg
-./Raising Hell/Thumbs.db
 ./Remain in Light
-./Remain in Light/AlbumArtSmall.jpg
-./Remain in Light/Folder.jpg
 ./Remain in Light/Remain in Light.jpg
 ./Remain in Light/The Great Curve.mp3
-./Remain in Light/Thumbs.db
 ./Revolver
-./Revolver/AlbumArtSmall.jpg
 ./Revolver/Eleanor Rigby.mp3
-./Revolver/Folder.jpg
 ./Revolver/Revolver.jpg
-./Revolver/Thumbs.db
 ./Revolver/Yellow Submarine.mp3
 ./Rocky
-./Rocky/AlbumArtSmall.jpg
-./Rocky/Folder.jpg
 ./Rocky/Gonna Fly Now.mp3
 ./Rocky/Rocky.jpg
-./Rocky/Thumbs.db
 ./Sabbath Bloody Sabbath
 ./Sabbath Bloody Sabbath/A National Acrobat.mp3
-./Sabbath Bloody Sabbath/AlbumArtSmall.jpg
 ./Sabbath Bloody Sabbath/Fluff.mp3
-./Sabbath Bloody Sabbath/Folder.jpg
 ./Sabbath Bloody Sabbath/Killing Yourself to Live.mp3
 ./Sabbath Bloody Sabbath/Looking for Today.mp3
 ./Sabbath Bloody Sabbath/Sabbath Bloody Sabbath.jpg
@@ -1387,10 +1002,8 @@
 ./Sabbath Bloody Sabbath/Spiral Architect.mp3
 ./Sabbath Bloody Sabbath/Who Are You.mp3
 ./Sabotage
-./Sabotage/AlbumArtSmall.jpg
 ./Sabotage/Am I Going Insane (Radio).mp3
 ./Sabotage/Don't Start (Too Late).mp3
-./Sabotage/Folder.jpg
 ./Sabotage/Hole in the Sky.mp3
 ./Sabotage/Megalomania.mp3
 ./Sabotage/Sabotage.jpg
@@ -1399,37 +1012,26 @@
 ./Sabotage/The Thrill of It All.mp3
 ./Sabotage/The Writ.mp3
 ./Sacred Love
-./Sacred Love/AlbumArtSmall.jpg
-./Sacred Love/Folder.jpg
 ./Sacred Love/Sacred Love.jpg
 ./Sacred Love/Stolen Car (Take Me Dancing).mp3
-./Sacred Love/Thumbs.db
 ./Sandstorm
-./Sandstorm/AlbumArtSmall.jpg
-./Sandstorm/Folder.jpg
 ./Sandstorm/Sandstorm (radio edit).mp3
 ./Sandstorm/Sandstorm.jpg
-./Sandstorm/Thumbs.db
 ./Santana
-./Santana/AlbumArtSmall.jpg
 ./Santana/Evil Ways.mp3
-./Santana/Folder.jpg
 ./Santana/Jingo.mp3
 ./Santana/Persuasion.mp3
 ./Santana/Santana.jpg
 ./Santana/Savor.mp3
 ./Santana/Shades of Time.mp3
 ./Santana/Soul Sacrifice.mp3
-./Santana/Thumbs.db
 ./Santana/Treat.mp3
 ./Santana/Waiting.mp3
 ./Santana/You Just Don't Care.mp3
 ./Santana III
-./Santana III/AlbumArtSmall.jpg
 ./Santana III/Batuka.mp3
 ./Santana III/Everybody's Everything.mp3
 ./Santana III/Everything's Coming Our Way.mp3
-./Santana III/Folder.jpg
 ./Santana III/Guajira.mp3
 ./Santana III/Jungle Strut.mp3
 ./Santana III/No One to Depend On.mp3
@@ -1438,37 +1040,21 @@
 ./Santana III/Taboo.mp3
 ./Santana III/Toussaint L'Overture.mp3
 ./Santimanitay
-./Santimanitay/AlbumArtSmall.jpg
-./Santimanitay/Folder.jpg
 ./Santimanitay/Mississippi Freestylin'.mp3
 ./Santimanitay/Santimanitay.jpg
-./Santimanitay/Thumbs.db
 ./Saturday Night Fever
-./Saturday Night Fever/AlbumArtSmall.jpg
-./Saturday Night Fever/Folder.jpg
 ./Saturday Night Fever/Saturday Night Fever.jpg
 ./Saturday Night Fever/Stayin' Alive.mp3
-./Saturday Night Fever/Thumbs.db
 ./Scatman
-./Scatman/AlbumArtSmall.jpg
-./Scatman/Folder.jpg
 ./Scatman/Scatman (Basic Radio).mp3
 ./Scatman/Scatman.jpg
-./Scatman/Thumbs.db
 ./Seal
-./Seal/AlbumArtSmall.jpg
-./Seal/Folder.jpg
 ./Seal/Kiss From a Rose.mp3
 ./Seal/Seal.jpg
-./Seal/Thumbs.db
 ./Searching for the Dolphins
-./Searching for the Dolphins/AlbumArtSmall.jpg
-./Searching for the Dolphins/Folder.jpg
 ./Searching for the Dolphins/Searching for the Dolphins.jpg
 ./Searching for the Dolphins/The Snake.mp3
-./Searching for the Dolphins/Thumbs.db
 ./Secret Treaties
-./Secret Treaties/AlbumArtSmall.jpg
 ./Secret Treaties/Astronomy.mp3
 ./Secret Treaties/Boorman the Chauffer.mp3
 ./Secret Treaties/Born to Be Wild (studio version).mp3
@@ -1477,7 +1063,6 @@
 ./Secret Treaties/Career of Evil.mp3
 ./Secret Treaties/Dominance and Submission.mp3
 ./Secret Treaties/Flaming Telepaths.mp3
-./Secret Treaties/Folder.jpg
 ./Secret Treaties/Harvester of Eyes.mp3
 ./Secret Treaties/ME 262.mp3
 ./Secret Treaties/Mes Dames Sarat.mp3
@@ -1485,17 +1070,12 @@
 ./Secret Treaties/Secret Treaties.jpg
 ./Secret Treaties/Subhuman.mp3
 ./September  Can't Hide Love
-./September  Can't Hide Love/AlbumArtSmall.jpg
-./September  Can't Hide Love/Folder.jpg
 ./September  Can't Hide Love/September  Can't Hide Love.jpg
 ./September  Can't Hide Love/September.mp3
-./September  Can't Hide Love/Thumbs.db
 ./Showroom of Compassion
-./Showroom of Compassion/AlbumArtSmall.jpg
 ./Showroom of Compassion/Bound Away.mp3
 ./Showroom of Compassion/Easy to Crash.mp3
 ./Showroom of Compassion/Federal Funding.mp3
-./Showroom of Compassion/Folder.jpg
 ./Showroom of Compassion/Got to Move.mp3
 ./Showroom of Compassion/Italian Guy.mp3
 ./Showroom of Compassion/Long Time.mp3
@@ -1504,25 +1084,16 @@
 ./Showroom of Compassion/Sick of You.mp3
 ./Showroom of Compassion/Teenage Pregnancy.mp3
 ./Showroom of Compassion/The Winter.mp3
-./Showroom of Compassion/Thumbs.db
 ./Showroom of Compassion/What's Now Is Now.mp3
 ./Since I Left You
-./Since I Left You/AlbumArtSmall.jpg
-./Since I Left You/Folder.jpg
 ./Since I Left You/Frontier Psychiatrist.mp3
 ./Since I Left You/Since I Left You.jpg
-./Since I Left You/Thumbs.db
 ./Slippery When Wet
-./Slippery When Wet/AlbumArtSmall.jpg
-./Slippery When Wet/Folder.jpg
 ./Slippery When Wet/Livin' on a Prayer.mp3
 ./Slippery When Wet/Slippery When Wet.jpg
-./Slippery When Wet/Thumbs.db
 ./Slippery When Wet/Wanted Dead or Alive.mp3
 ./Smite and Ignite
-./Smite and Ignite/AlbumArtSmall.jpg
 ./Smite and Ignite/Deathfire Grasp.mp3
-./Smite and Ignite/Folder.jpg
 ./Smite and Ignite/Last Whisper.mp3
 ./Smite and Ignite/Lightbringer.mp3
 ./Smite and Ignite/Ohmwrecker.mp3
@@ -1531,31 +1102,19 @@
 ./Smite and Ignite/The Hex Core.mp3
 ./Smite and Ignite/The Prophecy.mp3
 ./Smite and Ignite/Thornmail.mp3
-./Smite and Ignite/Thumbs.db
 ./Song for My Father
-./Song for My Father/AlbumArtSmall.jpg
-./Song for My Father/Folder.jpg
 ./Song for My Father/Song for My Father.jpg
 ./Song for My Father/Song for My Father.mp3
-./Song for My Father/Thumbs.db
 ./Soundpieces Da Antidote!
-./Soundpieces Da Antidote!/AlbumArtSmall.jpg
-./Soundpieces Da Antidote!/Folder.jpg
 ./Soundpieces Da Antidote!/Soundpieces Da Antidote!.jpg
-./Soundpieces Da Antidote!/Thumbs.db
 ./Soundpieces Da Antidote!/WhenImOnDaMic.mp3
 ./Space Jam Music From and Inspired by the Motion Picture
-./Space Jam Music From and Inspired by the Motion Picture/AlbumArtSmall.jpg
-./Space Jam Music From and Inspired by the Motion Picture/Folder.jpg
 ./Space Jam Music From and Inspired by the Motion Picture/Space Jam Music From and Inspired by the Motion Picture.jpg
 ./Space Jam Music From and Inspired by the Motion Picture/Space Jam.mp3
-./Space Jam Music From and Inspired by the Motion Picture/Thumbs.db
 ./Spectres
-./Spectres/AlbumArtSmall.jpg
 ./Spectres/Celestial the Queen.mp3
 ./Spectres/Death Valley Nights.mp3
 ./Spectres/Fireworks.mp3
-./Spectres/Folder.jpg
 ./Spectres/Godzilla.mp3
 ./Spectres/Goin' Through the Motions.mp3
 ./Spectres/Golden Age of Leather.mp3
@@ -1564,14 +1123,11 @@
 ./Spectres/R. U. Ready 2 Rock.mp3
 ./Spectres/Searchin' for Celine.mp3
 ./Spectres/Spectres.jpg
-./Spectres/Thumbs.db
 ./StarCraft
-./StarCraft/AlbumArtSmall.jpg
 ./StarCraft/Brood War Aria.mp3
 ./StarCraft/Char Falls Under Directorate Control.mp3
 ./StarCraft/Dearest Helena.mp3
 ./StarCraft/First Contact.mp3
-./StarCraft/Folder.jpg
 ./StarCraft/Funeral for a Hero.mp3
 ./StarCraft/Fury of the Xel'Naga.mp3
 ./StarCraft/Main Title.mp3
@@ -1589,7 +1145,6 @@
 ./StarCraft/Terran Victory.mp3
 ./StarCraft/The Ascension.mp3
 ./StarCraft/The Death of the Overmind.mp3
-./StarCraft/Thumbs.db
 ./StarCraft/Zerg Defeat.mp3
 ./StarCraft/Zerg One.mp3
 ./StarCraft/Zerg Ready Room.mp3
@@ -1597,32 +1152,22 @@
 ./StarCraft/Zerg Two.mp3
 ./StarCraft/Zerg Victory.mp3
 ./Straight Outta Compton
-./Straight Outta Compton/AlbumArtSmall.jpg
 ./Straight Outta Compton/Express Yourself.mp3
-./Straight Outta Compton/Folder.jpg
 ./Straight Outta Compton/Straight Outta Compton.jpg
-./Straight Outta Compton/Thumbs.db
 ./Sublunar
-./Sublunar/AlbumArtSmall.jpg
 ./Sublunar/Dryness of Earth.mp3
-./Sublunar/Folder.jpg
 ./Sublunar/Frigidity of Water.mp3
 ./Sublunar/Moisture of Air.mp3
 ./Sublunar/Peculiarity of Fire.mp3
 ./Sublunar/Sublunar.jpg
 ./Suicidal Tendencies
-./Suicidal Tendencies/AlbumArtSmall.jpg
-./Suicidal Tendencies/Folder.jpg
 ./Suicidal Tendencies/Institutionalized.mp3
 ./Suicidal Tendencies/Suicidal Tendencies.jpg
-./Suicidal Tendencies/Thumbs.db
 ./Surrealistic Pillow
 ./Surrealistic Pillow/35 of a Mile in 10 Seconds.mp3
-./Surrealistic Pillow/AlbumArtSmall.jpg
 ./Surrealistic Pillow/Comin' Back to Me.mp3
 ./Surrealistic Pillow/D.C.B.A.-25.mp3
 ./Surrealistic Pillow/Embryonic Journey.mp3
-./Surrealistic Pillow/Folder.jpg
 ./Surrealistic Pillow/How Do You Feel.mp3
 ./Surrealistic Pillow/My Best Friend.mp3
 ./Surrealistic Pillow/Plastic Fantastic Lover.mp3
@@ -1632,50 +1177,30 @@
 ./Surrealistic Pillow/Today.mp3
 ./Surrealistic Pillow/White Rabbit.mp3
 ./T.N.T
-./T.N.T/AlbumArtSmall.jpg
-./T.N.T/Folder.jpg
 ./T.N.T/T.N.T..jpg
 ./T.N.T/T.N.T..mp3
-./T.N.T/Thumbs.db
 ./The Age of Aquarius
-./The Age of Aquarius/AlbumArtSmall.jpg
 ./The Age of Aquarius/Aquarius  Let the Sunshine In (The Flesh Failures).mp3
-./The Age of Aquarius/Folder.jpg
 ./The Age of Aquarius/The Age of Aquarius.jpg
-./The Age of Aquarius/Thumbs.db
 ./The B-52's
-./The B-52's/AlbumArtSmall.jpg
-./The B-52's/Folder.jpg
 ./The B-52's/Rock Lobster.mp3
 ./The B-52's/The B-52's.jpg
-./The B-52's/Thumbs.db
 ./The Captain and Me
-./The Captain and Me/AlbumArtSmall.jpg
 ./The Captain and Me/China Grove.mp3
-./The Captain and Me/Folder.jpg
 ./The Captain and Me/The Captain and Me.jpg
-./The Captain and Me/Thumbs.db
 ./The City
-./The City/AlbumArtSmall.jpg
-./The City/Folder.jpg
 ./The City/The City.jpg
-./The City/Thumbs.db
 ./The City/Winelight.mp3
 ./The Complex
-./The Complex/AlbumArtSmall.jpg
-./The Complex/Folder.jpg
 ./The Complex/The Complex.jpg
-./The Complex/Thumbs.db
 ./The Complex/What Is Rock.mp3
 ./The Elephant Man's Alarm Clock
-./The Elephant Man's Alarm Clock/AlbumArtSmall.jpg
 ./The Elephant Man's Alarm Clock/Baseball Furies.mp3
 ./The Elephant Man's Alarm Clock/Bird With a Hole in the Stomach.mp3
 ./The Elephant Man's Alarm Clock/Droid Assembly.mp3
 ./The Elephant Man's Alarm Clock/Elephant Man's Alarm Clock.mp3
 ./The Elephant Man's Alarm Clock/Final Wars.mp3
 ./The Elephant Man's Alarm Clock/Fizzy Lipton Drinks.mp3
-./The Elephant Man's Alarm Clock/Folder.jpg
 ./The Elephant Man's Alarm Clock/Gigan.mp3
 ./The Elephant Man's Alarm Clock/Lurker at the Threshold, Part 1.mp3
 ./The Elephant Man's Alarm Clock/Lurker at the Threshold, Part 2.mp3
@@ -1685,55 +1210,32 @@
 ./The Elephant Man's Alarm Clock/Thai Fighter Swarm.mp3
 ./The Elephant Man's Alarm Clock/The Elephant Man's Alarm Clock.jpg
 ./The Faction Collection 1982-1985
-./The Faction Collection 1982-1985/AlbumArtSmall.jpg
-./The Faction Collection 1982-1985/Folder.jpg
 ./The Faction Collection 1982-1985/Skate & Destroy.mp3
 ./The Faction Collection 1982-1985/The Faction Collection 1982-1985.jpg
-./The Faction Collection 1982-1985/Thumbs.db
 ./The Fast and the Furious Tokyo Drift
-./The Fast and the Furious Tokyo Drift/AlbumArtSmall.jpg
-./The Fast and the Furious Tokyo Drift/Folder.jpg
 ./The Fast and the Furious Tokyo Drift/The Fast and the Furious Tokyo Drift.jpg
-./The Fast and the Furious Tokyo Drift/Thumbs.db
 ./The Fast and the Furious Tokyo Drift/Tokyo Drift (Fast & Furious).mp3
 ./The Final Countdown
-./The Final Countdown/AlbumArtSmall.jpg
-./The Final Countdown/Folder.jpg
 ./The Final Countdown/The Final Countdown.jpg
 ./The Final Countdown/The Final Countdown.mp3
-./The Final Countdown/Thumbs.db
 ./The Game
-./The Game/AlbumArtSmall.jpg
 ./The Game/Another One Bites the Dust.mp3
-./The Game/Folder.jpg
 ./The Game/The Game.jpg
-./The Game/Thumbs.db
 ./The Hand That Thieves
-./The Hand That Thieves/AlbumArtSmall.jpg
-./The Hand That Thieves/Folder.jpg
 ./The Hand That Thieves/The Hand That Thieves.jpg
-./The Hand That Thieves/Thumbs.db
 ./The Hand That Thieves/With Any Sort of Certainty.mp3
 ./The House of the Rising Sun  Talkin' 'Bout You
-./The House of the Rising Sun  Talkin' 'Bout You/AlbumArtSmall.jpg
-./The House of the Rising Sun  Talkin' 'Bout You/Folder.jpg
 ./The House of the Rising Sun  Talkin' 'Bout You/The House of the Rising Sun  Talkin' 'Bout You.jpg
 ./The House of the Rising Sun  Talkin' 'Bout You/The House of the Rising Sun.mp3
-./The House of the Rising Sun  Talkin' 'Bout You/Thumbs.db
 ./The House That Dirt Built
-./The House That Dirt Built/AlbumArtSmall.jpg
-./The House That Dirt Built/Folder.jpg
 ./The House That Dirt Built/How You Like Me Now.mp3
 ./The House That Dirt Built/Short Change Hero.mp3
 ./The House That Dirt Built/The House That Dirt Built.jpg
-./The House That Dirt Built/Thumbs.db
 ./The Information
 ./The Information/1000BPM.mp3
-./The Information/AlbumArtSmall.jpg
 ./The Information/Cellphone's Dead.mp3
 ./The Information/Dark Star.mp3
 ./The Information/Elevator Music.mp3
-./The Information/Folder.jpg
 ./The Information/Motorcade.mp3
 ./The Information/Movie Theme.mp3
 ./The Information/Nausea.mp3
@@ -1745,11 +1247,8 @@
 ./The Information/The Information.jpg
 ./The Information/The Information.mp3
 ./The Information/Think I'm in Love.mp3
-./The Information/Thumbs.db
 ./The Information/We Dance Alone.mp3
 ./The Nightfly
-./The Nightfly/AlbumArtSmall.jpg
-./The Nightfly/Folder.jpg
 ./The Nightfly/Green Flower Street.mp3
 ./The Nightfly/I.G.Y..mp3
 ./The Nightfly/Maxine.mp3
@@ -1758,47 +1257,30 @@
 ./The Nightfly/The Goodbye Look.mp3
 ./The Nightfly/The Nightfly.jpg
 ./The Nightfly/The Nightfly.mp3
-./The Nightfly/Thumbs.db
 ./The Nightfly/Walk Between Raindrops.mp3
 ./The Number of the Beast
-./The Number of the Beast/AlbumArtSmall.jpg
-./The Number of the Beast/Folder.jpg
 ./The Number of the Beast/The Number of the Beast.jpg
 ./The Number of the Beast/The Number of the Beast.mp3
-./The Number of the Beast/Thumbs.db
 ./The Pick of Destiny
-./The Pick of Destiny/AlbumArtSmall.jpg
-./The Pick of Destiny/Folder.jpg
 ./The Pick of Destiny/The Metal.mp3
 ./The Pick of Destiny/The Pick of Destiny.jpg
-./The Pick of Destiny/Thumbs.db
 ./The Revölution by Night
-./The Revölution by Night/AlbumArtSmall.jpg
 ./The Revölution by Night/Dragon Lady.mp3
 ./The Revölution by Night/Eyes on Fire.mp3
 ./The Revölution by Night/Feel the Thunder.mp3
-./The Revölution by Night/Folder.jpg
 ./The Revölution by Night/Let Go.mp3
 ./The Revölution by Night/Light Years of Love.mp3
 ./The Revölution by Night/Shadow of California.mp3
 ./The Revölution by Night/Shooting Shark.mp3
 ./The Revölution by Night/Take Me Away.mp3
 ./The Revölution by Night/The Revölution by Night.jpg
-./The Revölution by Night/Thumbs.db
 ./The Revölution by Night/Veins.mp3
 ./The Rising Tied
-./The Rising Tied/AlbumArtSmall.jpg
-./The Rising Tied/Folder.jpg
 ./The Rising Tied/Remember the Name.mp3
 ./The Rising Tied/The Rising Tied.jpg
-./The Rising Tied/Thumbs.db
 ./The Royal Scam
-./The Royal Scam/AlbumArtSmall.jpg
-./The Royal Scam/AlbumArt_{ED7E2E50-41A2-4BBE-A903-F2AE79D48A3D}_Large.jpg
-./The Royal Scam/AlbumArt_{ED7E2E50-41A2-4BBE-A903-F2AE79D48A3D}_Small.jpg
 ./The Royal Scam/Don't Take Me Alive.mp3
 ./The Royal Scam/Everything You Did.mp3
-./The Royal Scam/Folder.jpg
 ./The Royal Scam/Green Earrings.mp3
 ./The Royal Scam/Haitian Divorce.mp3
 ./The Royal Scam/Kid Charlemagne.mp3
@@ -1808,58 +1290,32 @@
 ./The Royal Scam/The Royal Scam.jpg
 ./The Royal Scam/The Royal Scam.mp3
 ./The Smoker You Drink, The Player You Get
-./The Smoker You Drink, The Player You Get/AlbumArtSmall.jpg
-./The Smoker You Drink, The Player You Get/Folder.jpg
 ./The Smoker You Drink, The Player You Get/Rocky Mountain Way.mp3
 ./The Smoker You Drink, The Player You Get/The Smoker You Drink, The Player You Get.jpg
-./The Smoker You Drink, The Player You Get/Thumbs.db
 ./The Soft Parade
-./The Soft Parade/AlbumArtSmall.jpg
-./The Soft Parade/Folder.jpg
 ./The Soft Parade/The Soft Parade.jpg
-./The Soft Parade/Thumbs.db
 ./The Soft Parade/Touch Me.mp3
 ./The Sound of Revenge
-./The Sound of Revenge/AlbumArtSmall.jpg
-./The Sound of Revenge/Folder.jpg
 ./The Sound of Revenge/Ridin'.mp3
 ./The Sound of Revenge/The Sound of Revenge.jpg
-./The Sound of Revenge/Thumbs.db
 ./The World in a Sea Shell
-./The World in a Sea Shell/AlbumArtSmall.jpg
 ./The World in a Sea Shell/Blues for a Young Girl Gone.mp3
-./The World in a Sea Shell/Folder.jpg
 ./The World in a Sea Shell/The World in a Sea Shell.jpg
-./The World in a Sea Shell/Thumbs.db
 ./Them vs. You vs. Me
-./Them vs. You vs. Me/AlbumArtSmall.jpg
-./Them vs. You vs. Me/Folder.jpg
 ./Them vs. You vs. Me/Paralyzer.mp3
 ./Them vs. You vs. Me/Them vs. You vs. Me.jpg
-./Them vs. You vs. Me/Thumbs.db
 ./Top Gun
-./Top Gun/AlbumArtSmall.jpg
 ./Top Gun/Danger Zone.mp3
-./Top Gun/Folder.jpg
-./Top Gun/Thumbs.db
 ./Top Gun/Top Gun.jpg
 ./Toxicity
-./Toxicity/AlbumArtSmall.jpg
-./Toxicity/Folder.jpg
 ./Toxicity/Shimmy.mp3
-./Toxicity/Thumbs.db
 ./Toxicity/Toxicity.jpg
 ./Trading Snakeoil for Wolftickets
-./Trading Snakeoil for Wolftickets/AlbumArtSmall.jpg
-./Trading Snakeoil for Wolftickets/Folder.jpg
 ./Trading Snakeoil for Wolftickets/Mad World.mp3
-./Trading Snakeoil for Wolftickets/Thumbs.db
 ./Trading Snakeoil for Wolftickets/Trading Snakeoil for Wolftickets.jpg
 ./Twisterlend
-./Twisterlend/AlbumArtSmall.jpg
 ./Twisterlend/Bowling for Slaughters.mp3
 ./Twisterlend/Canal System.mp3
-./Twisterlend/Folder.jpg
 ./Twisterlend/Forbidden Fold.mp3
 ./Twisterlend/Ghouls of the Sea.mp3
 ./Twisterlend/Gloomy Emptiness.mp3
@@ -1867,16 +1323,11 @@
 ./Twisterlend/Twisterlend.jpg
 ./Twisterlend/Twisterlend.mp3
 ./Two Against Nature
-./Two Against Nature/AlbumArtSmall.jpg
-./Two Against Nature/Folder.jpg
 ./Two Against Nature/Janie Runaway.mp3
-./Two Against Nature/Thumbs.db
 ./Two Against Nature/Two Against Nature.jpg
 ./Tyranny and Mutation
 ./Tyranny and Mutation/7 Screaming Diz-Busters.mp3
-./Tyranny and Mutation/AlbumArtSmall.jpg
 ./Tyranny and Mutation/Baby Ice Dog.mp3
-./Tyranny and Mutation/Folder.jpg
 ./Tyranny and Mutation/Hot Rails to Hell.mp3
 ./Tyranny and Mutation/Mistress of the Salmon Salt (Quicklime Girl).mp3
 ./Tyranny and Mutation/O.D.'d on Life Itself.mp3
@@ -1885,19 +1336,14 @@
 ./Tyranny and Mutation/Tyranny and Mutation.jpg
 ./Tyranny and Mutation/Wings Wetted Down.mp3
 ./Underdog
-./Underdog/AlbumArtSmall.jpg
-./Underdog/Folder.jpg
 ./Underdog/Spooky.mp3
-./Underdog/Thumbs.db
 ./Underdog/Underdog.jpg
 ./View Master
-./View Master/AlbumArtSmall.jpg
 ./View Master/Big Little Book.mp3
 ./View Master/Dragon Shield.mp3
 ./View Master/Early Coin.mp3
 ./View Master/Find.mp3
 ./View Master/First Day of Autumn.mp3
-./View Master/Folder.jpg
 ./View Master/Learn Circle.mp3
 ./View Master/Pullout Drawer.mp3
 ./View Master/Puzzle Box.mp3
@@ -1907,16 +1353,11 @@
 ./View Master/View Master.jpg
 ./View Master/View Master.mp3
 ./Voices
-./Voices/AlbumArtSmall.jpg
-./Voices/Folder.jpg
 ./Voices/Monsters.mp3
-./Voices/Thumbs.db
 ./Voices/Voices.jpg
 ./Vol 4
-./Vol 4/AlbumArtSmall.jpg
 ./Vol 4/Changes.mp3
 ./Vol 4/Cornucopia.mp3
-./Vol 4/Folder.jpg
 ./Vol 4/FX.mp3
 ./Vol 4/Laguna Sunrise.mp3
 ./Vol 4/Snowblind.mp3
@@ -1927,27 +1368,16 @@
 ./Vol 4/Vol 4.jpg
 ./Vol 4/Wheels of Confusion  The Straightener.mp3
 ./Wa-Do-Dem
-./Wa-Do-Dem/AlbumArtSmall.jpg
-./Wa-Do-Dem/Folder.jpg
-./Wa-Do-Dem/Thumbs.db
 ./Wa-Do-Dem/Wa-Do-Dem.jpg
 ./Wa-Do-Dem/Wa-Do-Dem.mp3
 ./Wall Street Voodoo
-./Wall Street Voodoo/AlbumArtSmall.jpg
-./Wall Street Voodoo/Folder.jpg
 ./Wall Street Voodoo/Outcast.mp3
-./Wall Street Voodoo/Thumbs.db
 ./Wall Street Voodoo/Wall Street Voodoo.jpg
 ./What Is Beat
-./What Is Beat/AlbumArtSmall.jpg
-./What Is Beat/Folder.jpg
 ./What Is Beat/March of the Swivel Heads.mp3
-./What Is Beat/Thumbs.db
 ./What Is Beat/What Is Beat.jpg
 ./Wheels of Ferris
-./Wheels of Ferris/AlbumArtSmall.jpg
 ./Wheels of Ferris/B Train to Bronx.mp3
-./Wheels of Ferris/Folder.jpg
 ./Wheels of Ferris/Forgotten Factory.mp3
 ./Wheels of Ferris/Lamp.mp3
 ./Wheels of Ferris/Saw See.mp3
@@ -1956,20 +1386,11 @@
 ./Wheels of Ferris/Wheels of Ferris.jpg
 ./Wheels of Ferris/Wheels of Ferris.mp3
 ./Wild and Peaceful
-./Wild and Peaceful/AlbumArtSmall.jpg
-./Wild and Peaceful/Folder.jpg
 ./Wild and Peaceful/Jungle Boogie.mp3
-./Wild and Peaceful/Thumbs.db
 ./Wild and Peaceful/Wild and Peaceful.jpg
 ./Wild Cherry
-./Wild Cherry/AlbumArtSmall.jpg
-./Wild Cherry/Folder.jpg
 ./Wild Cherry/Play That Funky Music.mp3
-./Wild Cherry/Thumbs.db
 ./Wild Cherry/Wild Cherry.jpg
 ./[Led Zeppelin IV]
-./[Led Zeppelin IV]/AlbumArtSmall.jpg
-./[Led Zeppelin IV]/Folder.jpg
 ./[Led Zeppelin IV]/Stairway to Heaven.mp3
-./[Led Zeppelin IV]/Thumbs.db
 ./[Led Zeppelin IV]/[Led Zeppelin IV].jpg
