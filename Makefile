@@ -1,4 +1,6 @@
-default:
+default: zip
+
+zip:
 	set -x; \
 	for album in *; do \
 		if [ "$$album" == "contents.txt" ]; then continue; fi; \
@@ -9,6 +11,9 @@ default:
 		zip -r "../$$album.zip" *; \
 		cd ..; \
 	done
+
+unzip:
+	for album in *.zip; do unzip "$album" -d "${album%%.zip}"; done
 
 removeTempFiles:
 	rm -f */*.ini
