@@ -18,7 +18,7 @@ unzip:
 removeTempFiles:
 	rm -f */*.ini
 	rm -f *.ini
-	rm -f ./Folder.jpg
+	rm -f */Folder.jpg
 	rm -f */AlbumArt*.jpg
 	rm -f *.db
 	rm -f */*.db
