@@ -13,7 +13,7 @@ zip:
 	done
 
 unzip:
-	for album in *.zip; do unzip "$album" -d "${album%%.zip}"; done
+	for album in *.zip; do unzip "$$album" -d "$${album%%.zip}"; done
 
 removeTempFiles:
 	rm -f */*.ini
