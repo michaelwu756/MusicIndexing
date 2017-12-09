@@ -1,41 +1,4 @@
 .
-./.git
-./.git/COMMIT_EDITMSG
-./.git/config
-./.git/description
-./.git/HEAD
-./.git/hooks
-./.git/hooks/applypatch-msg.sample
-./.git/hooks/commit-msg.sample
-./.git/hooks/post-update.sample
-./.git/hooks/pre-applypatch.sample
-./.git/hooks/pre-commit.sample
-./.git/hooks/pre-push.sample
-./.git/hooks/pre-rebase.sample
-./.git/hooks/pre-receive.sample
-./.git/hooks/prepare-commit-msg.sample
-./.git/hooks/update.sample
-./.git/index
-./.git/info
-./.git/info/exclude
-./.git/logs
-./.git/logs/HEAD
-./.git/logs/refs
-./.git/logs/refs/heads
-./.git/logs/refs/heads/master
-./.git/objects
-./.git/objects/64
-./.git/objects/64/f7c0ecd63392580ada95b7cd403f19101ac0e4
-./.git/objects/a6
-./.git/objects/a6/b3960e2b31f18e2b912c397725ed2118a9c422
-./.git/objects/b0
-./.git/objects/b0/75f7eba8e4baa248fbf5fc083ecb1026b1f73b
-./.git/objects/info
-./.git/objects/pack
-./.git/refs
-./.git/refs/heads
-./.git/refs/heads/master
-./.git/refs/tags
 ./2001
 ./2001/2001.jpg
 ./2001/The Next Episode.mp3
@@ -260,7 +223,6 @@
 ./Comfort Eagle/Shadow Stabbing.mp3
 ./Comfort Eagle/Short Skirt Long Jacket.mp3
 ./Comfort Eagle/World of Two.mp3
-./contents.txt
 ./Countdown to Ecstasy
 ./Countdown to Ecstasy/Bodhisattva.mp3
 ./Countdown to Ecstasy/Countdown to Ecstasy.jpg
