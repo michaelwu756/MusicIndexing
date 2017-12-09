@@ -29,4 +29,4 @@ index:
 clean:
 	rm -f *.zip
 
-.PHONY: default index removeTempFiles clean
+.PHONY: default index removeTempFiles clean zip unzip
