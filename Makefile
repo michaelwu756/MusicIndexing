@@ -15,6 +15,8 @@ removeTempFiles:
 	rm -f *.ini
 	rm -f ./Folder.jpg
 	rm -f */AlbumArt*.jpg
+	rm -f *.db
+	rm -f */*.db
 
 index:
 	find . | grep -v '\.git' | grep -v 'contents\.txt' | grep -v 'Makefile' | grep -v '\.zip' > contents.txt
