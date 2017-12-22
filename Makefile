@@ -1,4 +1,8 @@
-default: zip
+default:
+	cp -al ~/Music/* .
+	make removeTempFiles
+	make index
+	git diff
 
 zip:
 	set -x; \
@@ -27,6 +31,9 @@ index:
 	find . | grep -v '\.git' | grep -v 'contents\.txt' | grep -v 'Makefile' | grep -v '\.zip' > contents.txt
 
 clean:
+	git clean -xdf
+
+removeZip:
 	rm -f *.zip
 
-.PHONY: default index removeTempFiles clean zip unzip
+.PHONY: default index removeTempFiles clean zip unzip removeZip
