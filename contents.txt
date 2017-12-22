@@ -223,6 +223,20 @@
 ./Comfort Eagle/Shadow Stabbing.mp3
 ./Comfort Eagle/Short Skirt Long Jacket.mp3
 ./Comfort Eagle/World of Two.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong
+./Compact Jazz Ella Fitzgerald Louis Armstrong/A Fine Romance.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong/A Foggy Day.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong/Can't We Be Friends.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong/Cheek to Cheek.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong/Compact Jazz Ella Fitzgerald Louis Armstrong.jpg
+./Compact Jazz Ella Fitzgerald Louis Armstrong/Don't Be That Way.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong/Gee Baby Ain't I Good to You.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong/I Won't Dance.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong/It Ain't Necessarily So.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong/Let's Call the Whole Thing Off.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong/Stompin' at the Savoy.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong/Summertime.mp3
+./Compact Jazz Ella Fitzgerald Louis Armstrong/They Can't Take That Away From Me.mp3
 ./Countdown to Ecstasy
 ./Countdown to Ecstasy/Bodhisattva.mp3
 ./Countdown to Ecstasy/Countdown to Ecstasy.jpg
