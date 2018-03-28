@@ -29,6 +29,9 @@
 ./A Rock and Roll Alternative
 ./A Rock and Roll Alternative/A Rock and Roll Alternative.jpg
 ./A Rock and Roll Alternative/So Into You.mp3
+./A-Tisket, A-Tasket
+./A-Tisket, A-Tasket/A-Tisket, A-Tasket.jpg
+./A-Tisket, A-Tasket/A-Tisket, A-Tasket.mp3
 ./Abraxas
 ./Abraxas/Abraxas.jpg
 ./Abraxas/Black Magic Woman  Gypsy Queen.mp3
@@ -107,6 +110,9 @@
 ./Begin Here
 ./Begin Here/Begin Here.jpg
 ./Begin Here/She's Not There.mp3
+./Begin the Beguine
+./Begin the Beguine/Begin the Beguine.jpg
+./Begin the Beguine/Begin the Beguine.mp3
 ./Billy Talent II
 ./Billy Talent II/Billy Talent II.jpg
 ./Billy Talent II/Devil in a Midnight Mass.mp3
@@ -139,6 +145,9 @@
 ./Blatant Localism
 ./Blatant Localism/Beach Blanket Bong-Out.mp3
 ./Blatant Localism/Blatant Localism.jpg
+./Blue Skies
+./Blue Skies/Blue Skies.jpg
+./Blue Skies/Blue Skies.mp3
 ./Blue Öyster Cult
 ./Blue Öyster Cult/A Fact About Sneakers (demo).mp3
 ./Blue Öyster Cult/Before the Kiss, a Redcap.mp3
@@ -158,6 +167,9 @@
 ./Blues & Roots
 ./Blues & Roots/Blues & Roots.jpg
 ./Blues & Roots/Moanin'.mp3
+./Body and Soul
+./Body and Soul/Body and Soul.jpg
+./Body and Soul/Body and Soul.mp3
 ./Breakaway
 ./Breakaway/Breakaway.jpg
 ./Breakaway/Rockwriter.mp3
@@ -210,6 +222,12 @@
 ./Caterpillar/Reprint.mp3
 ./Caterpillar/Ring.mp3
 ./Caterpillar/Skizzy's Hot Rod.mp3
+./Changes
+./Changes/Changes.jpg
+./Changes/Changes.mp3
+./Clarinet Marmalade
+./Clarinet Marmalade/Clarinet Marmalade.jpg
+./Clarinet Marmalade/Clarinet Marmalade.mp3
 ./Comfort Eagle
 ./Comfort Eagle/Arco Arena.mp3
 ./Comfort Eagle/Comfort Eagle.jpg
@@ -237,6 +255,9 @@
 ./Compact Jazz Ella Fitzgerald Louis Armstrong/Stompin' at the Savoy.mp3
 ./Compact Jazz Ella Fitzgerald Louis Armstrong/Summertime.mp3
 ./Compact Jazz Ella Fitzgerald Louis Armstrong/They Can't Take That Away From Me.mp3
+./Cotton Tail
+./Cotton Tail/Cotton Tail.jpg
+./Cotton Tail/Cotton Tail.mp3
 ./Countdown to Ecstasy
 ./Countdown to Ecstasy/Bodhisattva.mp3
 ./Countdown to Ecstasy/Countdown to Ecstasy.jpg
@@ -310,6 +331,9 @@
 ./Dinosaurchestra
 ./Dinosaurchestra/Dinosaurchestra.jpg
 ./Dinosaurchestra/The Ultimate Showdown of Ultimate Destiny.mp3
+./Dipper Mouth Blues
+./Dipper Mouth Blues/Dipper Mouth Blues.jpg
+./Dipper Mouth Blues/Dipper Mouth Blues.mp3
 ./Discovery
 ./Discovery/Aerodynamic.mp3
 ./Discovery/Crescendolls.mp3
@@ -338,6 +362,9 @@
 ./Drunken Lullabies
 ./Drunken Lullabies/Drunken Lullabies.jpg
 ./Drunken Lullabies/Drunken Lullabies.mp3
+./East St. Louis Toodle-Oo
+./East St. Louis Toodle-Oo/East St. Louis Toodle-Oo.jpg
+./East St. Louis Toodle-Oo/East St. Louis Toodle-Oo.mp3
 ./Electric
 ./Electric/Bad Fun.mp3
 ./Electric/Electric.jpg
@@ -419,6 +446,9 @@
 ./Fly by Night
 ./Fly by Night/Fly by Night.jpg
 ./Fly by Night/Fly by Night.mp3
+./For Dancers Only
+./For Dancers Only/For Dancers Only.jpg
+./For Dancers Only/For Dancers Only.mp3
 ./Frankenchrist
 ./Frankenchrist/A Growing Boy Needs His Lunch.mp3
 ./Frankenchrist/At My Job.mp3
@@ -502,6 +532,9 @@
 ./Gorillaz/19-2000.mp3
 ./Gorillaz/Clint Eastwood.mp3
 ./Gorillaz/Gorillaz.jpg
+./Got My Mojo Workin'
+./Got My Mojo Workin'/Got My Mojo Workin'.jpg
+./Got My Mojo Workin'/Got My Mojo Workin'.mp3
 ./Green Onions
 ./Green Onions/A Woman, a Lover, a Friend.mp3
 ./Green Onions/Behave Yourself.mp3
@@ -587,6 +620,9 @@
 ./Holy Diver/Shame on the Night.mp3
 ./Holy Diver/Stand Up and Shout.mp3
 ./Holy Diver/Straight Through the Heart.mp3
+./Honky Tonk Train Blues
+./Honky Tonk Train Blues/Honky Tonk Train Blues.jpg
+./Honky Tonk Train Blues/Honky Tonk Train Blues.mp3
 ./Hotel California
 ./Hotel California/Hotel California.jpg
 ./Hotel California/Hotel California.mp3
@@ -606,6 +642,12 @@
 ./If You Can Believe Your Eyes and Ears
 ./If You Can Believe Your Eyes and Ears/California Dreamin'.mp3
 ./If You Can Believe Your Eyes and Ears/If You Can Believe Your Eyes and Ears.jpg
+./In a Mist
+./In a Mist/In a Mist.jpg
+./In a Mist/In a Mist.mp3
+./In the Mood
+./In the Mood/In the Mood.jpg
+./In the Mood/In the Mood.mp3
 ./In Your Honor
 ./In Your Honor/In Your Honor.jpg
 ./In Your Honor/Over and Out.mp3
@@ -628,6 +670,9 @@
 ./Jordan
 ./Jordan/Jordan.jpg
 ./Jordan/Jordan.mp3
+./Jumpin' at the Woodside
+./Jumpin' at the Woodside/Jumpin' at the Woodside.jpg
+./Jumpin' at the Woodside/Jumpin' at the Woodside.mp3
 ./Kamakiriad
 ./Kamakiriad/Countermoon.mp3
 ./Kamakiriad/Florida Room.mp3
@@ -692,6 +737,9 @@
 ./King of the Surf Guitar The Best of Dick Dale and His Del-Tones/The Victor.mp3
 ./King of the Surf Guitar The Best of Dick Dale and His Del-Tones/The Wedge.mp3
 ./King of the Surf Guitar The Best of Dick Dale and His Del-Tones/Tidal Wave.mp3
+./King Porter Stomp
+./King Porter Stomp/King Porter Stomp.jpg
+./King Porter Stomp/King Porter Stomp.mp3
 ./Labor Days
 ./Labor Days/Labor Days.jpg
 ./Labor Days/Labor.mp3
@@ -705,6 +753,9 @@
 ./Let's Get It On/Let's Get It On.mp3
 ./Let's Get It On/Please Stay (Once You Go Away).mp3
 ./Let's Get It On/You Sure Love to Ball.mp3
+./Livery Stable Blues
+./Livery Stable Blues/Livery Stable Blues.jpg
+./Livery Stable Blues/Livery Stable Blues.mp3
 ./Living in Darkness
 ./Living in Darkness/Bloodstains (Darkness version).mp3
 ./Living in Darkness/Living in Darkness.jpg
@@ -745,6 +796,9 @@
 ./Man on the Moon The End of Day
 ./Man on the Moon The End of Day/Day 'n' Nite (Nightmare).mp3
 ./Man on the Moon The End of Day/Man on the Moon The End of Day.jpg
+./Maple Leaf Rag
+./Maple Leaf Rag/Maple Leaf Rag.jpg
+./Maple Leaf Rag/Maple Leaf Rag.mp3
 ./Mary Jane's Last Dance
 ./Mary Jane's Last Dance/Mary Jane's Last Dance.jpg
 ./Mary Jane's Last Dance/Mary Jane's Last Dance.mp3
@@ -820,6 +874,9 @@
 ./Morph the Cat/The Great Pagoda of Funn.mp3
 ./Morph the Cat/The Night Belongs to Mona.mp3
 ./Morph the Cat/What I Do.mp3
+./Moten Swing
+./Moten Swing/Moten Swing.jpg
+./Moten Swing/Moten Swing.mp3
 ./Moving Pictures
 ./Moving Pictures/Moving Pictures.jpg
 ./Moving Pictures/Tom Sawyer.mp3
@@ -828,6 +885,9 @@
 ./Muskabeatz/I'm a Star.mp3
 ./Muskabeatz/Muskabeatz.jpg
 ./Muskabeatz/Verses of Doom.mp3
+./Muskrat Ramble
+./Muskrat Ramble/Muskrat Ramble.jpg
+./Muskrat Ramble/Muskrat Ramble.mp3
 ./Mutations
 ./Mutations/Mutations.jpg
 ./Mutations/Tropicalia.mp3
@@ -926,6 +986,9 @@
 ./Population Override/Super Human.mp3
 ./Population Override/Too Many Humans.mp3
 ./Population Override/Unrestrained Growth.mp3
+./Potato Head Blues
+./Potato Head Blues/Potato Head Blues.jpg
+./Potato Head Blues/Potato Head Blues.mp3
 ./Pretzel Logic
 ./Pretzel Logic/Any Major Dude Will Tell You.mp3
 ./Pretzel Logic/Barrytown.mp3
@@ -1045,9 +1108,18 @@
 ./Secret Treaties/Mommy.mp3
 ./Secret Treaties/Secret Treaties.jpg
 ./Secret Treaties/Subhuman.mp3
+./See See Rider Blues
+./See See Rider Blues/See See Rider Blues.jpg
+./See See Rider Blues/See See Rider Blues.mp3
+./Sent for You Yesterday
+./Sent for You Yesterday/Sent for You Yesterday.jpg
+./Sent for You Yesterday/Sent for You Yesterday.mp3
 ./September  Can't Hide Love
 ./September  Can't Hide Love/September  Can't Hide Love.jpg
 ./September  Can't Hide Love/September.mp3
+./Seven Come Eleven
+./Seven Come Eleven/Seven Come Eleven.jpg
+./Seven Come Eleven/Seven Come Eleven.mp3
 ./Showroom of Compassion
 ./Showroom of Compassion/Bound Away.mp3
 ./Showroom of Compassion/Easy to Crash.mp3
@@ -1064,6 +1136,12 @@
 ./Since I Left You
 ./Since I Left You/Frontier Psychiatrist.mp3
 ./Since I Left You/Since I Left You.jpg
+./Sing, Sing, Sing
+./Sing, Sing, Sing/Sing, Sing, Sing.jpg
+./Sing, Sing, Sing/Sing, Sing, Sing.mp3
+./Singin' the Blues
+./Singin' the Blues/Singin' the Blues.jpg
+./Singin' the Blues/Singin' the Blues.mp3
 ./Slippery When Wet
 ./Slippery When Wet/Livin' on a Prayer.mp3
 ./Slippery When Wet/Slippery When Wet.jpg
@@ -1099,6 +1177,9 @@
 ./Spectres/R. U. Ready 2 Rock.mp3
 ./Spectres/Searchin' for Celine.mp3
 ./Spectres/Spectres.jpg
+./St. Louis Blues
+./St. Louis Blues/St. Louis Blues.jpg
+./St. Louis Blues/St. Louis Blues.mp3
 ./StarCraft
 ./StarCraft/Brood War Aria.mp3
 ./StarCraft/Char Falls Under Directorate Control.mp3
@@ -1130,12 +1211,21 @@
 ./Straight Outta Compton
 ./Straight Outta Compton/Express Yourself.mp3
 ./Straight Outta Compton/Straight Outta Compton.jpg
+./Strange Fruit
+./Strange Fruit/Strange Fruit.jpg
+./Strange Fruit/Strange Fruit.mp3
+./Struttin' With Some Barbecue
+./Struttin' With Some Barbecue/Struttin' With Some Barbecue.jpg
+./Struttin' With Some Barbecue/Struttin' With Some Barbecue.mp3
 ./Sublunar
 ./Sublunar/Dryness of Earth.mp3
 ./Sublunar/Frigidity of Water.mp3
 ./Sublunar/Moisture of Air.mp3
 ./Sublunar/Peculiarity of Fire.mp3
 ./Sublunar/Sublunar.jpg
+./Sugar Foot Stomp
+./Sugar Foot Stomp/Sugar Foot Stomp.jpg
+./Sugar Foot Stomp/Sugar Foot Stomp.mp3
 ./Suicidal Tendencies
 ./Suicidal Tendencies/Institutionalized.mp3
 ./Suicidal Tendencies/Suicidal Tendencies.jpg
@@ -1155,6 +1245,9 @@
 ./T.N.T
 ./T.N.T/T.N.T..jpg
 ./T.N.T/T.N.T..mp3
+./Take the A Train
+./Take the A Train/Take the A Train.jpg
+./Take the A Train/Take the A Train.mp3
 ./The Age of Aquarius
 ./The Age of Aquarius/Aquarius  Let the Sunshine In (The Flesh Failures).mp3
 ./The Age of Aquarius/The Age of Aquarius.jpg
@@ -1280,6 +1373,9 @@
 ./Them vs. You vs. Me
 ./Them vs. You vs. Me/Paralyzer.mp3
 ./Them vs. You vs. Me/Them vs. You vs. Me.jpg
+./Three Little Words
+./Three Little Words/Three Little Words.jpg
+./Three Little Words/Three Little Words.mp3
 ./Top Gun
 ./Top Gun/Danger Zone.mp3
 ./Top Gun/Top Gun.jpg
@@ -1349,6 +1445,12 @@
 ./Wall Street Voodoo
 ./Wall Street Voodoo/Outcast.mp3
 ./Wall Street Voodoo/Wall Street Voodoo.jpg
+./Well Git It
+./Well Git It/Well Git It.jpg
+./Well Git It/Well Git It.mp3
+./West End Blues
+./West End Blues/West End Blues.jpg
+./West End Blues/West End Blues.mp3
 ./What Is Beat
 ./What Is Beat/March of the Swivel Heads.mp3
 ./What Is Beat/What Is Beat.jpg
