@@ -228,6 +228,21 @@
 ./Clarinet Marmalade
 ./Clarinet Marmalade/Clarinet Marmalade.jpg
 ./Clarinet Marmalade/Clarinet Marmalade.mp3
+./Colma
+./Colma/Big Sur Moon.mp3
+./Colma/Colma.jpg
+./Colma/Colma.mp3
+./Colma/For Mom.mp3
+./Colma/Ghost, Part 2.mp3
+./Colma/Ghost.mp3
+./Colma/Hills of Eternity.mp3
+./Colma/Lone Sal Bug.mp3
+./Colma/Machete.mp3
+./Colma/Sanctum.mp3
+./Colma/Watching the Boats With My Dad.mp3
+./Colma/Whitewash.mp3
+./Colma/Wishing Well.mp3
+./Colma/Wondering.mp3
 ./Comfort Eagle
 ./Comfort Eagle/Arco Arena.mp3
 ./Comfort Eagle/Comfort Eagle.jpg
