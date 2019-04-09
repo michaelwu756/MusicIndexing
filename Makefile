@@ -1,5 +1,5 @@
 default:
-	cp -al ~/Music/* .
+	cp -al ~/Music/...and\ Justice\ for\ All ~/Music/* .
 	make removeTempFiles
 	make index
 	git diff

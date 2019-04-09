@@ -1,4 +1,15 @@
 .
+./...and Justice for All
+./...and Justice for All/...and Justice for All.jpg
+./...and Justice for All/...and Justice for All.mp3
+./...and Justice for All/Blackened.mp3
+./...and Justice for All/Dyers Eve.mp3
+./...and Justice for All/Eye of the Beholder.mp3
+./...and Justice for All/Harvester of Sorrow.mp3
+./...and Justice for All/One.mp3
+./...and Justice for All/The Frayed Ends of Sanity.mp3
+./...and Justice for All/The Shortest Straw.mp3
+./...and Justice for All/To Live Is to Die.mp3
 ./2001
 ./2001/2001.jpg
 ./2001/The Next Episode.mp3
@@ -145,6 +156,40 @@
 ./Blatant Localism
 ./Blatant Localism/Beach Blanket Bong-Out.mp3
 ./Blatant Localism/Blatant Localism.jpg
+./Bleach
+./Bleach/About a Girl.mp3
+./Bleach/Big Cheese.mp3
+./Bleach/Bleach.jpg
+./Bleach/Blew.mp3
+./Bleach/Downer.mp3
+./Bleach/Floyd the Barber.mp3
+./Bleach/Love Buzz.mp3
+./Bleach/Mr. Moustache.mp3
+./Bleach/Negative Creep.mp3
+./Bleach/Paper Cuts.mp3
+./Bleach/School.mp3
+./Bleach/Scoff.mp3
+./Bleach/Sifting.mp3
+./Bleach/Swap Meet.mp3
+./Blood Sugar Sex Magik
+./Blood Sugar Sex Magik/Apache Rose Peacock.mp3
+./Blood Sugar Sex Magik/Blood Sugar Sex Magik.jpg
+./Blood Sugar Sex Magik/Blood Sugar Sex Magik.mp3
+./Blood Sugar Sex Magik/Breaking the Girl.mp3
+./Blood Sugar Sex Magik/Funky Monks.mp3
+./Blood Sugar Sex Magik/Give It Away.mp3
+./Blood Sugar Sex Magik/I Could Have Lied.mp3
+./Blood Sugar Sex Magik/If You Have to Ask.mp3
+./Blood Sugar Sex Magik/Mellowship Slinky in B major.mp3
+./Blood Sugar Sex Magik/My Lovely Man.mp3
+./Blood Sugar Sex Magik/Naked in the Rain.mp3
+./Blood Sugar Sex Magik/Sir Psycho Sexy.mp3
+./Blood Sugar Sex Magik/Suck My Kiss.mp3
+./Blood Sugar Sex Magik/The Greeting Song.mp3
+./Blood Sugar Sex Magik/The Power of Equality.mp3
+./Blood Sugar Sex Magik/The Righteous & The Wicked.mp3
+./Blood Sugar Sex Magik/They're Red Hot.mp3
+./Blood Sugar Sex Magik/Under the Bridge.mp3
 ./Blue Skies
 ./Blue Skies/Blue Skies.jpg
 ./Blue Skies/Blue Skies.mp3
@@ -188,6 +233,24 @@
 ./Cage the Elephant
 ./Cage the Elephant/Ain't No Rest for the Wicked.mp3
 ./Cage the Elephant/Cage the Elephant.jpg
+./Californication
+./Californication/Around the World.mp3
+./Californication/Californication.jpg
+./Californication/Californication.mp3
+./Californication/Easily.mp3
+./Californication/Emit Remmus.mp3
+./Californication/Get on Top.mp3
+./Californication/Gong Li.mp3
+./Californication/I Like Dirt.mp3
+./Californication/Otherside.mp3
+./Californication/Parallel Universe.mp3
+./Californication/Porcelain.mp3
+./Californication/Purple Stain.mp3
+./Californication/Right on Time.mp3
+./Californication/Road Trippin'.mp3
+./Californication/Savior.mp3
+./Californication/Scar Tissue.mp3
+./Californication/This Velvet Glove.mp3
 ./Can't Buy a Thrill
 ./Can't Buy a Thrill/Brooklyn (Owes the Charmer Under Me).mp3
 ./Can't Buy a Thrill/Can't Buy a Thrill.jpg
@@ -817,6 +880,16 @@
 ./Mary Jane's Last Dance
 ./Mary Jane's Last Dance/Mary Jane's Last Dance.jpg
 ./Mary Jane's Last Dance/Mary Jane's Last Dance.mp3
+./Master of Puppets
+./Master of Puppets/Battery.mp3
+./Master of Puppets/Damage, Inc..mp3
+./Master of Puppets/Disposable Heroes.mp3
+./Master of Puppets/Leper Messiah.mp3
+./Master of Puppets/Master of Puppets.jpg
+./Master of Puppets/Master of Puppets.mp3
+./Master of Puppets/Orion.mp3
+./Master of Puppets/The Thing That Should Not Be.mp3
+./Master of Puppets/Welcome Home (Sanitarium).mp3
 ./Master of Reality
 ./Master of Reality/After Forever.mp3
 ./Master of Reality/Children of the Grave.mp3
@@ -844,6 +917,20 @@
 ./Merry Go Round
 ./Merry Go Round/House of the Rising Drum.mp3
 ./Merry Go Round/Merry Go Round.jpg
+./Metallica
+./Metallica/Don't Tread on Me.mp3
+./Metallica/Enter Sandman.mp3
+./Metallica/Holier Than Thou.mp3
+./Metallica/Metallica.jpg
+./Metallica/My Friend of Misery.mp3
+./Metallica/Nothing Else Matters.mp3
+./Metallica/Of Wolf and Man.mp3
+./Metallica/Sad but True.mp3
+./Metallica/The God That Failed.mp3
+./Metallica/The Struggle Within.mp3
+./Metallica/The Unforgiven.mp3
+./Metallica/Through the Never.mp3
+./Metallica/Wherever I May Roam.mp3
 ./Midnite Vultures
 ./Midnite Vultures/Beautiful Way.mp3
 ./Midnite Vultures/Broken Train.mp3
@@ -895,6 +982,22 @@
 ./Moving Pictures
 ./Moving Pictures/Moving Pictures.jpg
 ./Moving Pictures/Tom Sawyer.mp3
+./MTV Unplugged in New York
+./MTV Unplugged in New York/About a Girl.mp3
+./MTV Unplugged in New York/All Apologies.mp3
+./MTV Unplugged in New York/Come as You Are.mp3
+./MTV Unplugged in New York/Dumb.mp3
+./MTV Unplugged in New York/Jesus Doesn't Want Me for a Sunbeam.mp3
+./MTV Unplugged in New York/Lake of Fire.mp3
+./MTV Unplugged in New York/MTV Unplugged in New York.jpg
+./MTV Unplugged in New York/Oh Me.mp3
+./MTV Unplugged in New York/On a Plain.mp3
+./MTV Unplugged in New York/Pennyroyal Tea.mp3
+./MTV Unplugged in New York/Plateau.mp3
+./MTV Unplugged in New York/Polly.mp3
+./MTV Unplugged in New York/Something in the Way.mp3
+./MTV Unplugged in New York/The Man Who Sold the World.mp3
+./MTV Unplugged in New York/Where Did You Sleep Last Night.mp3
 ./Muskabeatz
 ./Muskabeatz/Body Rock.mp3
 ./Muskabeatz/I'm a Star.mp3
@@ -909,6 +1012,20 @@
 ./Never Mind the Bollocks Here's the Sex Pistols
 ./Never Mind the Bollocks Here's the Sex Pistols/Anarchy in the U.K..mp3
 ./Never Mind the Bollocks Here's the Sex Pistols/Never Mind the Bollocks Here's the Sex Pistols.jpg
+./Nevermind
+./Nevermind/Breed.mp3
+./Nevermind/Come as You Are.mp3
+./Nevermind/Drain You.mp3
+./Nevermind/In Bloom.mp3
+./Nevermind/Lithium.mp3
+./Nevermind/Lounge Act.mp3
+./Nevermind/Nevermind.jpg
+./Nevermind/On a Plain.mp3
+./Nevermind/Polly.mp3
+./Nevermind/Smells Like Teen Spirit.mp3
+./Nevermind/Something in the Way  Endless, Nameless.mp3
+./Nevermind/Stay Away.mp3
+./Nevermind/Territorial Pissings.mp3
 ./Ninja Tuna
 ./Ninja Tuna/Kalimba.mp3
 ./Ninja Tuna/Ninja Tuna.jpg
@@ -1042,6 +1159,16 @@
 ./Revolver/Eleanor Rigby.mp3
 ./Revolver/Revolver.jpg
 ./Revolver/Yellow Submarine.mp3
+./Ride the Lightning
+./Ride the Lightning/Creeping Death.mp3
+./Ride the Lightning/Escape.mp3
+./Ride the Lightning/Fade to Black.mp3
+./Ride the Lightning/Fight Fire With Fire.mp3
+./Ride the Lightning/For Whom the Bell Tolls.mp3
+./Ride the Lightning/Ride the Lightning.jpg
+./Ride the Lightning/Ride the Lightning.mp3
+./Ride the Lightning/The Call of Ktulu.mp3
+./Ride the Lightning/Trapped Under Ice.mp3
 ./Rocky
 ./Rocky/Gonna Fly Now.mp3
 ./Rocky/Rocky.jpg
@@ -1195,6 +1322,36 @@
 ./St. Louis Blues
 ./St. Louis Blues/St. Louis Blues.jpg
 ./St. Louis Blues/St. Louis Blues.mp3
+./Stadium Arcadium
+./Stadium Arcadium/21st Century.mp3
+./Stadium Arcadium/Animal Bar.mp3
+./Stadium Arcadium/C'mon Girl.mp3
+./Stadium Arcadium/Charlie.mp3
+./Stadium Arcadium/Dani California.mp3
+./Stadium Arcadium/Death of a Martian.mp3
+./Stadium Arcadium/Desecration Smile.mp3
+./Stadium Arcadium/Especially in Michigan.mp3
+./Stadium Arcadium/Hard to Concentrate.mp3
+./Stadium Arcadium/Hey.mp3
+./Stadium Arcadium/Hump de Bump.mp3
+./Stadium Arcadium/If.mp3
+./Stadium Arcadium/Make You Feel Better.mp3
+./Stadium Arcadium/Readymade.mp3
+./Stadium Arcadium/She Looks to Me.mp3
+./Stadium Arcadium/She's Only 18.mp3
+./Stadium Arcadium/Slow Cheetah.mp3
+./Stadium Arcadium/Snow ((Hey Oh)).mp3
+./Stadium Arcadium/So Much I.mp3
+./Stadium Arcadium/Stadium Arcadium.jpg
+./Stadium Arcadium/Stadium Arcadium.mp3
+./Stadium Arcadium/Storm in a Teacup.mp3
+./Stadium Arcadium/Strip My Mind.mp3
+./Stadium Arcadium/Tell Me Baby.mp3
+./Stadium Arcadium/Torture Me.mp3
+./Stadium Arcadium/Turn It Again.mp3
+./Stadium Arcadium/Warlocks.mp3
+./Stadium Arcadium/We Believe.mp3
+./Stadium Arcadium/Wet Sand.mp3
 ./StarCraft
 ./StarCraft/Brood War Aria.mp3
 ./StarCraft/Char Falls Under Directorate Control.mp3
@@ -1485,5 +1642,12 @@
 ./Wild Cherry/Play That Funky Music.mp3
 ./Wild Cherry/Wild Cherry.jpg
 ./[Led Zeppelin IV]
+./[Led Zeppelin IV]/Black Dog.mp3
+./[Led Zeppelin IV]/Four Sticks.mp3
+./[Led Zeppelin IV]/Going to California.mp3
+./[Led Zeppelin IV]/Misty Mountain Hop.mp3
+./[Led Zeppelin IV]/Rock and Roll.mp3
 ./[Led Zeppelin IV]/Stairway to Heaven.mp3
+./[Led Zeppelin IV]/The Battle of Evermore.mp3
+./[Led Zeppelin IV]/When the Levee Breaks.mp3
 ./[Led Zeppelin IV]/[Led Zeppelin IV].jpg
