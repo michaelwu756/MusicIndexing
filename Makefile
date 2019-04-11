@@ -26,6 +26,10 @@ removeTempFiles:
 	rm -f */AlbumArt*.jpg
 	rm -f *.db
 	rm -f */*.db
+	rm -f ...and\ Justice\ for\ All/*.ini
+	rm -f ...and\ Justice\ for\ All/Folder.jpg
+	rm -f ...and\ Justice\ for\ All/AlbumArt*.jpg
+	rm -f ...and\ Justice\ for\ All/*.db
 
 index:
 	find . | grep -v '\.git' | grep -v 'contents\.txt' | grep -v 'Makefile' | grep -v '\.zip' > contents.txt
