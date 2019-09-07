@@ -542,6 +542,29 @@
 ./Frankenchrist/Soup Is Good Food.mp3
 ./Frankenchrist/Stars and Stripes of Corruption.mp3
 ./Frankenchrist/This Could Be Anywhere (This Could Be Everywhere).mp3
+./Gaijin
+./Gaijin/Gaijin.jpg
+./Gaijin/一 Journey to the West.mp3
+./Gaijin/七 Grand Dojo.mp3
+./Gaijin/三 Tsunami Sky.mp3
+./Gaijin/九 Memoirs of a Geisha.mp3
+./Gaijin/二 Land of the Samurai.mp3
+./Gaijin/二十 6am Snowfall.mp3
+./Gaijin/二十一 Silence.mp3
+./Gaijin/五 Gomenasai I.mp3
+./Gaijin/八 Kumite.mp3
+./Gaijin/六 Sakura III.mp3
+./Gaijin/十 Gomenasai II.mp3
+./Gaijin/十一 A Conversation With the Blacksmith.mp3
+./Gaijin/十七 Kenjutsu Water Style.mp3
+./Gaijin/十三 Oath.mp3
+./Gaijin/十九 Icarus.mp3
+./Gaijin/十二 The Forest of a Thousand Blades.mp3
+./Gaijin/十五 Gomenasai III.mp3
+./Gaijin/十八 Tea House.mp3
+./Gaijin/十六 Amaya Village.mp3
+./Gaijin/十四 Mysterious Ronin.mp3
+./Gaijin/四 Sleeping on the Susuki Grasslands.mp3
 ./Gangsta's Paradise
 ./Gangsta's Paradise/Gangsta's Paradise.jpg
 ./Gangsta's Paradise/Gangsta's Paradise.mp3
@@ -1519,6 +1542,22 @@
 ./The Joker
 ./The Joker/The Joker.jpg
 ./The Joker/The Joker.mp3
+./The Mollusk
+./The Mollusk/Buckingham Green.mp3
+./The Mollusk/Cold Blows the Wind.mp3
+./The Mollusk/I'll Be Your Jonny on the Spot.mp3
+./The Mollusk/I'm Dancing in the Show Tonight.mp3
+./The Mollusk/It's Gonna Be (Alright).mp3
+./The Mollusk/Mutilated Lips.mp3
+./The Mollusk/Ocean Man.mp3
+./The Mollusk/Pink Eye (on My Leg).mp3
+./The Mollusk/Polka Dot Tail.mp3
+./The Mollusk/She Wanted to Leave (reprise).mp3
+./The Mollusk/The Blarney Stone.mp3
+./The Mollusk/The Golden Eel.mp3
+./The Mollusk/The Mollusk.jpg
+./The Mollusk/The Mollusk.mp3
+./The Mollusk/Waving My Dick in the Wind.mp3
 ./The Nightfly
 ./The Nightfly/Green Flower Street.mp3
 ./The Nightfly/I.G.Y..mp3
@@ -1656,6 +1695,12 @@
 ./West End Blues
 ./West End Blues/West End Blues.jpg
 ./West End Blues/West End Blues.mp3
+./Westward Bound
+./Westward Bound/El Rio.mp3
+./Westward Bound/Goin' Back to Cali.mp3
+./Westward Bound/IV League.mp3
+./Westward Bound/On The Move.mp3
+./Westward Bound/Westward Bound.jpg
 ./What Is Beat
 ./What Is Beat/March of the Swivel Heads.mp3
 ./What Is Beat/What Is Beat.jpg
