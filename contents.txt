@@ -501,6 +501,16 @@
 ./Fight With Tools/Fight With Tools.jpg
 ./Fight With Tools/Handlebars.mp3
 ./Fight With Tools/Stand Up.mp3
+./Filoxiny
+./Filoxiny/After Midnight.mp3
+./Filoxiny/Breathe.mp3
+./Filoxiny/Filoxiny.jpg
+./Filoxiny/Filoxiny.mp3
+./Filoxiny/I Didn't Know.mp3
+./Filoxiny/Life as One.mp3
+./Filoxiny/Metanoia.mp3
+./Filoxiny/Shimmer.mp3
+./Filoxiny/We Lose.mp3
 ./Fire of Unknown Origin
 ./Fire of Unknown Origin/After Dark.mp3
 ./Fire of Unknown Origin/Burnin' for You.mp3
@@ -863,6 +873,18 @@
 ./Let's Get It On/Let's Get It On.mp3
 ./Let's Get It On/Please Stay (Once You Go Away).mp3
 ./Let's Get It On/You Sure Love to Ball.mp3
+./Life & Love
+./Life & Love/Don't Call My Name.mp3
+./Life & Love/Fountayne.mp3
+./Life & Love/Hurry and Enjoy.mp3
+./Life & Love/I Won't Be There.mp3
+./Life & Love/Inside.mp3
+./Life & Love/Life & Love.jpg
+./Life & Love/Penny in a Well.mp3
+./Life & Love/Shyma.mp3
+./Life & Love/Take My Time.mp3
+./Life & Love/The Bay.mp3
+./Life & Love/The Moment.mp3
 ./Livery Stable Blues
 ./Livery Stable Blues/Livery Stable Blues.jpg
 ./Livery Stable Blues/Livery Stable Blues.mp3
@@ -1090,6 +1112,16 @@
 ./Open Your Eyes
 ./Open Your Eyes/Open Your Eyes.jpg
 ./Open Your Eyes/Spokesman.mp3
+./Oracolo
+./Oracolo/Detroit.mp3
+./Oracolo/Left With a Gun.mp3
+./Oracolo/Mandala.mp3
+./Oracolo/Old Days.mp3
+./Oracolo/Oracolo.jpg
+./Oracolo/Oracolo.mp3
+./Oracolo/Rubber Gloves.mp3
+./Oracolo/Summer.mp3
+./Oracolo/The Man Behind the Mirror.mp3
 ./Out of the Attic
 ./Out of the Attic/Chew Chew Train.mp3
 ./Out of the Attic/Dank Dungeon.mp3
@@ -1325,6 +1357,17 @@
 ./Singin' the Blues
 ./Singin' the Blues/Singin' the Blues.jpg
 ./Singin' the Blues/Singin' the Blues.mp3
+./Skinshape
+./Skinshape/Bonus Breaks.mp3
+./Skinshape/Heartache.mp3
+./Skinshape/Live by the Day.mp3
+./Skinshape/Shangri-La.mp3
+./Skinshape/Skinshape.jpg
+./Skinshape/Stabo.mp3
+./Skinshape/Sunday Morning.mp3
+./Skinshape/Surf Rider (Bonus Track).mp3
+./Skinshape/The Place Upstream.mp3
+./Skinshape/You Don't Love Me.mp3
 ./Slippery When Wet
 ./Slippery When Wet/Livin' on a Prayer.mp3
 ./Slippery When Wet/Slippery When Wet.jpg
