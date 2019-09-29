@@ -109,6 +109,19 @@
 ./Apocalypse 91... The Enemy Strikes Black
 ./Apocalypse 91... The Enemy Strikes Black/Apocalypse 91... The Enemy Strikes Black.jpg
 ./Apocalypse 91... The Enemy Strikes Black/By the Time I Get to Arizona.mp3
+./As the Dark Wave Swells
+./As the Dark Wave Swells/As the Dark Wave Swells.jpg
+./As the Dark Wave Swells/As the Dark Wave Swells.mp3
+./As the Dark Wave Swells/Into the Crimson Sunset.mp3
+./As the Dark Wave Swells/Lazy Girls Hangout.mp3
+./As the Dark Wave Swells/Mindbender.mp3
+./As the Dark Wave Swells/Panic Party.mp3
+./As the Dark Wave Swells/Point of No Return.mp3
+./As the Dark Wave Swells/Rising East.mp3
+./As the Dark Wave Swells/Siboney.mp3
+./As the Dark Wave Swells/The Kiss-Off.mp3
+./As the Dark Wave Swells/Thunderin' Guitar.mp3
+./As the Dark Wave Swells/Wrong Turn.mp3
 ./Back at the Laundromat
 ./Back at the Laundromat/Back at the Laundromat.jpg
 ./Back at the Laundromat/Yer Country.mp3
@@ -118,6 +131,16 @@
 ./Bananaphone
 ./Bananaphone/Bananaphone.jpg
 ./Bananaphone/Bananaphone.mp3
+./Bang
+./Bang/Bang.jpg
+./Bang/Come With Me.mp3
+./Bang/Future Shock.mp3
+./Bang/Last Will & Testament.mp3
+./Bang/Lions, Christians.mp3
+./Bang/Our Home.mp3
+./Bang/Questions.mp3
+./Bang/Redman.mp3
+./Bang/The Queen.mp3
 ./Begin Here
 ./Begin Here/Begin Here.jpg
 ./Begin Here/She's Not There.mp3
@@ -403,6 +426,14 @@
 ./Death Alley
 ./Death Alley/Death Alley.jpg
 ./Death Alley/Death Alley.mp3
+./Death of a Country
+./Death of a Country/Certainly Meaningless.mp3
+./Death of a Country/Death of a Country.jpg
+./Death of a Country/Death of a Country.mp3
+./Death of a Country/Future Song.mp3
+./Death of a Country/Life on Ending.mp3
+./Death of a Country/My Window.mp3
+./Death of a Country/No Trespassing.mp3
 ./Demon Days
 ./Demon Days/Demon Days.jpg
 ./Demon Days/Feel Good Inc..mp3
@@ -443,6 +474,44 @@
 ./Drunken Lullabies
 ./Drunken Lullabies/Drunken Lullabies.jpg
 ./Drunken Lullabies/Drunken Lullabies.mp3
+./Dumb Loud Hollow Twang
+./Dumb Loud Hollow Twang/Beach Murder Mystery.mp3
+./Dumb Loud Hollow Twang/Big Time Action.mp3
+./Dumb Loud Hollow Twang/Catatonya.mp3
+./Dumb Loud Hollow Twang/Coastal Disturbance.mp3
+./Dumb Loud Hollow Twang/Dumb Loud Hollow Twang.jpg
+./Dumb Loud Hollow Twang/Glider.mp3
+./Dumb Loud Hollow Twang/Hawaii Joe.mp3
+./Dumb Loud Hollow Twang/Hot Water Pool.mp3
+./Dumb Loud Hollow Twang/Landlocked.mp3
+./Dumb Loud Hollow Twang/Long Gun.mp3
+./Dumb Loud Hollow Twang/Pearl Divin'.mp3
+./Dumb Loud Hollow Twang/Point Break.mp3
+./Dumb Loud Hollow Twang/Standing on the Nose in a Stylish Manner.mp3
+./Dumb Loud Hollow Twang/Sun Stroke.mp3
+./Dumb Loud Hollow Twang/Tremor.mp3
+./Dumb Loud Hollow Twang/Wanganui.mp3
+./Dumb Loud Hollow Twang DeLuxe
+./Dumb Loud Hollow Twang DeLuxe/Beach Murder Mystery.mp3
+./Dumb Loud Hollow Twang DeLuxe/Big Time Action.mp3
+./Dumb Loud Hollow Twang DeLuxe/Catatonya.mp3
+./Dumb Loud Hollow Twang DeLuxe/Cecilia Ann.mp3
+./Dumb Loud Hollow Twang DeLuxe/Coastal Disturbance.mp3
+./Dumb Loud Hollow Twang DeLuxe/Dumb Loud Hollow Twang DeLuxe.jpg
+./Dumb Loud Hollow Twang DeLuxe/Glider.mp3
+./Dumb Loud Hollow Twang DeLuxe/Hawaii Joe.mp3
+./Dumb Loud Hollow Twang DeLuxe/Hot Water Pool.mp3
+./Dumb Loud Hollow Twang DeLuxe/Landlocked.mp3
+./Dumb Loud Hollow Twang DeLuxe/Long Gun.mp3
+./Dumb Loud Hollow Twang DeLuxe/Margaya.mp3
+./Dumb Loud Hollow Twang DeLuxe/Pearl Divin'.mp3
+./Dumb Loud Hollow Twang DeLuxe/Point Break.mp3
+./Dumb Loud Hollow Twang DeLuxe/Restless.mp3
+./Dumb Loud Hollow Twang DeLuxe/Standing on the Nose in a Stylish Manner.mp3
+./Dumb Loud Hollow Twang DeLuxe/Sunstroke.mp3
+./Dumb Loud Hollow Twang DeLuxe/The Breeze and I.mp3
+./Dumb Loud Hollow Twang DeLuxe/Tremor.mp3
+./Dumb Loud Hollow Twang DeLuxe/Wanganui.mp3
 ./East St. Louis Toodle-Oo
 ./East St. Louis Toodle-Oo/East St. Louis Toodle-Oo.jpg
 ./East St. Louis Toodle-Oo/East St. Louis Toodle-Oo.mp3
@@ -771,6 +840,22 @@
 ./In Your Honor
 ./In Your Honor/In Your Honor.jpg
 ./In Your Honor/Over and Out.mp3
+./Intensity!
+./Intensity!/Avalanche.mp3
+./Intensity!/Bikini Machines.mp3
+./Intensity!/C Alpha E.mp3
+./Intensity!/Central Coast Swing.mp3
+./Intensity!/Chase.mp3
+./Intensity!/Golden Spike.mp3
+./Intensity!/High Wall.mp3
+./Intensity!/Intensity!.jpg
+./Intensity!/Intensity!.mp3
+./Intensity!/Invasion of the Reverb Snatchers.mp3
+./Intensity!/Latinia.mp3
+./Intensity!/Napuljska Gitara.mp3
+./Intensity!/Sweet Spot.mp3
+./Intensity!/Tempted.mp3
+./Intensity!/The Wedge.mp3
 ./It's Alive
 ./It's Alive/Barnyard Banties.mp3
 ./It's Alive/Brooding Peeps.mp3
@@ -1033,6 +1118,16 @@
 ./Moten Swing
 ./Moten Swing/Moten Swing.jpg
 ./Moten Swing/Moten Swing.mp3
+./Mother  Bow To The King
+./Mother  Bow To The King/Bow To The King.mp3
+./Mother  Bow To The King/Feel The Hurt.mp3
+./Mother  Bow To The King/Humble.mp3
+./Mother  Bow To The King/Idealist Realist.mp3
+./Mother  Bow To The King/Keep On.mp3
+./Mother  Bow To The King/Mother  Bow To The King.jpg
+./Mother  Bow To The King/Mother.mp3
+./Mother  Bow To The King/No Sugar Tonight.mp3
+./Mother  Bow To The King/Tomorrow.mp3
 ./Moving Pictures
 ./Moving Pictures/Moving Pictures.jpg
 ./Moving Pictures/Tom Sawyer.mp3
@@ -1052,6 +1147,19 @@
 ./MTV Unplugged in New York/Something in the Way.mp3
 ./MTV Unplugged in New York/The Man Who Sold the World.mp3
 ./MTV Unplugged in New York/Where Did You Sleep Last Night.mp3
+./Music
+./Music/Another Town.mp3
+./Music/Brightness.mp3
+./Music/Don't Need Nobody.mp3
+./Music/Exactly Who I Am.mp3
+./Music/Glad You're Home.mp3
+./Music/Little Boy Blue.mp3
+./Music/Love Sonnet.mp3
+./Music/Music.jpg
+./Music/Must Be Love.mp3
+./Music/Page Of My Life.mp3
+./Music/Pearl And Her Ladies.mp3
+./Music/Windfair.mp3
 ./Muskabeatz
 ./Muskabeatz/Body Rock.mp3
 ./Muskabeatz/I'm a Star.mp3
@@ -1385,6 +1493,21 @@
 ./Song for My Father
 ./Song for My Father/Song for My Father.jpg
 ./Song for My Father/Song for My Father.mp3
+./Sonic Bullets 13 From the Hip
+./Sonic Bullets 13 From the Hip/Baia.mp3
+./Sonic Bullets 13 From the Hip/Bombora.mp3
+./Sonic Bullets 13 From the Hip/Bubble Bath.mp3
+./Sonic Bullets 13 From the Hip/Chaotica.mp3
+./Sonic Bullets 13 From the Hip/Corazón Del Loco Jorge.mp3
+./Sonic Bullets 13 From the Hip/Double Danger.mp3
+./Sonic Bullets 13 From the Hip/Farewell Malasaña.mp3
+./Sonic Bullets 13 From the Hip/Final Wave for the Day.mp3
+./Sonic Bullets 13 From the Hip/Ice & Pinewood Trees.mp3
+./Sonic Bullets 13 From the Hip/Last Ride.mp3
+./Sonic Bullets 13 From the Hip/Malagueña.mp3
+./Sonic Bullets 13 From the Hip/Sonic Bullets 13 From the Hip.jpg
+./Sonic Bullets 13 From the Hip/Theme From Slaying Beauty.mp3
+./Sonic Bullets 13 From the Hip/Tremble & Shake.mp3
 ./Soundpieces Da Antidote!
 ./Soundpieces Da Antidote!/Soundpieces Da Antidote!.jpg
 ./Soundpieces Da Antidote!/WhenImOnDaMic.mp3
@@ -1498,6 +1621,21 @@
 ./Surrealistic Pillow/Surrealistic Pillow.jpg
 ./Surrealistic Pillow/Today.mp3
 ./Surrealistic Pillow/White Rabbit.mp3
+./Sussex
+./Sussex/Bent Wind (Unreleased).mp3
+./Sussex/Castles Made of Man (B-Side single).mp3
+./Sussex/Going to the City.mp3
+./Sussex/Hate.mp3
+./Sussex/Look at Love.mp3
+./Sussex/Mystify.mp3
+./Sussex/Riverside (Unreleased).mp3
+./Sussex/Riverside.mp3
+./Sussex/Sacred Cows (A-Side single).mp3
+./Sussex/Sacred Cows.mp3
+./Sussex/Sussex.jpg
+./Sussex/The Chant (Unreleased).mp3
+./Sussex/The Lions.mp3
+./Sussex/Touch of Red.mp3
 ./T.N.T
 ./T.N.T/T.N.T..jpg
 ./T.N.T/T.N.T..mp3
@@ -1654,6 +1792,18 @@
 ./The World in a Sea Shell
 ./The World in a Sea Shell/Blues for a Young Girl Gone.mp3
 ./The World in a Sea Shell/The World in a Sea Shell.jpg
+./The Young Rascals
+./The Young Rascals/Baby Let's Wait.mp3
+./The Young Rascals/Do You Feel It.mp3
+./The Young Rascals/Good Lovin'.mp3
+./The Young Rascals/I Ain't Gonna Eat Out My Heart Anymore.mp3
+./The Young Rascals/I Believe.mp3
+./The Young Rascals/In the Midnight Hour.mp3
+./The Young Rascals/Just a Little.mp3
+./The Young Rascals/Like a Rolling Stone.mp3
+./The Young Rascals/Mustang Sally.mp3
+./The Young Rascals/Slow Down.mp3
+./The Young Rascals/The Young Rascals.jpg
 ./Them vs. You vs. Me
 ./Them vs. You vs. Me/Paralyzer.mp3
 ./Them vs. You vs. Me/Them vs. You vs. Me.jpg
