@@ -356,6 +356,18 @@
 ./Compact Jazz Ella Fitzgerald Louis Armstrong/Stompin' at the Savoy.mp3
 ./Compact Jazz Ella Fitzgerald Louis Armstrong/Summertime.mp3
 ./Compact Jazz Ella Fitzgerald Louis Armstrong/They Can't Take That Away From Me.mp3
+./Con Todo El Mundo
+./Con Todo El Mundo/A Hymn.mp3
+./Con Todo El Mundo/August 10.mp3
+./Con Todo El Mundo/Como Me Quieres.mp3
+./Con Todo El Mundo/Como Te Quiero.mp3
+./Con Todo El Mundo/Con Todo El Mundo.jpg
+./Con Todo El Mundo/Evan Finds the Third Room.mp3
+./Con Todo El Mundo/Friday Morning.mp3
+./Con Todo El Mundo/Lady and Man.mp3
+./Con Todo El Mundo/Maria También.mp3
+./Con Todo El Mundo/Rules.mp3
+./Con Todo El Mundo/Shades of Man.mp3
 ./Cotton Tail
 ./Cotton Tail/Cotton Tail.jpg
 ./Cotton Tail/Cotton Tail.mp3
@@ -1789,6 +1801,18 @@
 ./The Sound of Revenge
 ./The Sound of Revenge/Ridin'.mp3
 ./The Sound of Revenge/The Sound of Revenge.jpg
+./The Universe Smiles Upon You
+./The Universe Smiles Upon You/August Twelve.mp3
+./The Universe Smiles Upon You/Balls and Pins.mp3
+./The Universe Smiles Upon You/Dern Kala.mp3
+./The Universe Smiles Upon You/Little Joe and Mary.mp3
+./The Universe Smiles Upon You/Mr. White.mp3
+./The Universe Smiles Upon You/People Everywhere (Still Alive).mp3
+./The Universe Smiles Upon You/The Man Who Took My Sunglasses.mp3
+./The Universe Smiles Upon You/The Universe Smiles Upon You.jpg
+./The Universe Smiles Upon You/Two Fish and an Elephant.mp3
+./The Universe Smiles Upon You/White Gloves.mp3
+./The Universe Smiles Upon You/Zionsville.mp3
 ./The World in a Sea Shell
 ./The World in a Sea Shell/Blues for a Young Girl Gone.mp3
 ./The World in a Sea Shell/The World in a Sea Shell.jpg
